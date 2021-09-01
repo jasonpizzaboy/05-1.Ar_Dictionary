@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5376158154966726550
+  m_GuidHigh: 13350373607232806021
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5436059235113369808
+      m_GuidHigh: 397041964293551285
+    m_SerializedTextureGuid:
+      m_GuidLow: 7213906315304909251
+      m_GuidHigh: 15335555483451712651
+    m_Size: {x: 0.1, y: 0.059333336}
+    m_SpecifySize: 1
+    m_Name: T Rex
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5116012668003702430
+      m_GuidHigh: 2758915745102537368
+    m_SerializedTextureGuid:
+      m_GuidLow: 292034314938144023
+      m_GuidHigh: 4560111919340648696
+    m_Size: {x: 0.1, y: 0.07556347}
+    m_SpecifySize: 1
+    m_Name: Raptor
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5049013478294462255
+      m_GuidHigh: 5420484466617067693
+    m_SerializedTextureGuid:
+      m_GuidLow: 15284112171696984458
+      m_GuidHigh: 10972213652686209659
+    m_Size: {x: 0.1, y: 0.11310592}
+    m_SpecifySize: 1
+    m_Name: Brachiosaurus
+    m_Texture: {fileID: 0}
