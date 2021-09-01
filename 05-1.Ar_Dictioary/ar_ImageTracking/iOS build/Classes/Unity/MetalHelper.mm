@@ -399,8 +399,17 @@ extern "C" void PreparePresentNonMainScreenMTL(UnityDisplaySurfaceMTL* surface)
 {
     if (surface->drawable)
     {
-        surface->presentCB = [surface->drawableCommandQueue commandBuffer];
-        [surface->presentCB presentDrawable: surface->drawable];
+        // presentCB logic should be removed when we update the minimum version to iOS 12.0
+        // as the "one presentDrawable per command buffer" behaviour apparently was fixed
+        if (@available(iOS 12.0, *))
+        {
+            [UnityCurrentMTLCommandBuffer() presentDrawable: surface->drawable];
+        }
+        else
+        {
+            surface->presentCB = [surface->drawableCommandQueue commandBuffer];
+            [surface->presentCB presentDrawable: surface->drawable];
+        }
     }
 }
 

@@ -24,6 +24,19 @@
 		<type fullname="UnityEngine.AudioSource" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioBehaviour" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
+		<type fullname="UnityEngine.Canvas" preserve="nothing"/>
+		<type fullname="UnityEngine.Font" preserve="nothing"/>
+		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
+		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
+		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.Texture" preserve="nothing"/>
+		<type fullname="UnityEngine.Transform" preserve="nothing"/>
+		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
+		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
+		<type fullname="UnityEngine.RectTransform" preserve="nothing"/>
+		<type fullname="UnityEngine.CanvasRenderer" preserve="nothing"/>
+		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.Rigidbody" preserve="nothing"/>
 		<type fullname="UnityEngine.Collider" preserve="nothing"/>
 		<type fullname="UnityEngine.CapsuleCollider" preserve="nothing"/>
@@ -35,22 +48,16 @@
 		<type fullname="UnityEngine.RuntimeAnimatorController" preserve="nothing"/>
 		<type fullname="UnityEngine.Avatar" preserve="nothing"/>
 		<type fullname="UnityEngine.Renderer" preserve="nothing"/>
-		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
-		<type fullname="UnityEngine.Cubemap" preserve="nothing"/>
-		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
-		<type fullname="UnityEngine.Texture" preserve="nothing"/>
-		<type fullname="UnityEngine.Transform" preserve="nothing"/>
 		<type fullname="UnityEngine.Mesh" preserve="nothing"/>
-		<type fullname="UnityEngine.GameObject" preserve="nothing"/>
-		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
 		<type fullname="UnityEngine.LODGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.Motion" preserve="nothing"/>
 		<type fullname="UnityEngine.SkinnedMeshRenderer" preserve="nothing"/>
-		<type fullname="UnityEngine.LightmapSettings" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="Brach" preserve="nothing"/>
 		<type fullname="Rex" preserve="nothing"/>
+		<type fullname="SceneExit" preserve="nothing"/>
+		<type fullname="SceneMover" preserve="nothing"/>
 		<type fullname="TrackImage" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.XR.ARFoundation">
@@ -71,5 +78,14 @@
 	<assembly fullname="Unity.XR.Management">
 		<type fullname="UnityEngine.XR.Management.XRGeneralSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.XR.Management.XRManagerSettings" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>
 	</assembly>
 </linker>

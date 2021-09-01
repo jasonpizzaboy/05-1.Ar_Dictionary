@@ -334,7 +334,8 @@ extern bool _unityAppReady;
             // on one hand orientInterface: should be perfectly fine "reorienting" to current orientation
             // in reality, ios might be confused by transitionToViewController: shenanigans coupled with "nothing have changed actually"
             // as an example: prior to ios12 that might result in status bar going "bad" (becoming transparent)
-            if (_curOrientation != requestedOrient)
+            // NOTE: if we have switched from autorotation to fixed orientation, we must do the switch to pick new VC
+            if (_curOrientation != requestedOrient || autorotChanged)
                 [self orientInterface: requestedOrient];
         }
     }

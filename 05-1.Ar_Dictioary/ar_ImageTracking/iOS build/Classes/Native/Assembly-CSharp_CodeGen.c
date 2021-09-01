@@ -78,23 +78,33 @@ extern void Manager_FixedUpdate_m3967890A5CF50A8D511044380A4F455D7163E2EB (void)
 extern void Manager_OnGUI_mFF6454FAA70CEA0CF3650C23BB42F393E4D437F2 (void);
 // 0x00000021 System.Void Manager::.ctor()
 extern void Manager__ctor_m5B9F7AAE653DB0466943D59D3579FFCCFC32631E (void);
-// 0x00000022 System.Void TrackImage::Awake()
+// 0x00000022 System.Void SceneExit::ExitScene()
+extern void SceneExit_ExitScene_mCC664843E50A1853600DCB4BC3B79D6E26683395 (void);
+// 0x00000023 System.Void SceneExit::.ctor()
+extern void SceneExit__ctor_m0228E055545645AE7F6C10117B7C113F172AC793 (void);
+// 0x00000024 System.Void SceneMover::SceneChange()
+extern void SceneMover_SceneChange_m3970B813D2EC365B516BD05D2374F7FDBF1E8B3F (void);
+// 0x00000025 System.Void SceneMover::.ctor()
+extern void SceneMover__ctor_m98CC19B6140248C1AD3110BF8545002ED03B134A (void);
+// 0x00000026 System.Void TrackImage::Awake()
 extern void TrackImage_Awake_mC566BA6BE4424B913AA3027949ED9248E67B3178 (void);
-// 0x00000023 System.Void TrackImage::OnEnable()
-extern void TrackImage_OnEnable_m8B48C5057447D4C137EBF60310C3F640A519F6D2 (void);
-// 0x00000024 System.Void TrackImage::OnDisable()
-extern void TrackImage_OnDisable_mA28FA75136F3A53806F15C541C164DB5CAA46F21 (void);
-// 0x00000025 System.Void TrackImage::ImageChanged(UnityEngine.XR.ARFoundation.ARTrackedImagesChangedEventArgs)
-extern void TrackImage_ImageChanged_mD3B4613D426E2902DD04B1A93F7FCB48EE883B47 (void);
-// 0x00000026 System.Void TrackImage::UpdateImage(UnityEngine.XR.ARFoundation.ARTrackedImage)
-extern void TrackImage_UpdateImage_mB723F71A219A39D5C293018C59B8EF65196D014A (void);
 // 0x00000027 System.Void TrackImage::Update()
 extern void TrackImage_Update_m460CABD3F561935BAC42ECF769C0C3CBE311AC3F (void);
-// 0x00000028 System.Void TrackImage::.ctor()
+// 0x00000028 System.Void TrackImage::OnEnable()
+extern void TrackImage_OnEnable_m8B48C5057447D4C137EBF60310C3F640A519F6D2 (void);
+// 0x00000029 System.Void TrackImage::OnDisable()
+extern void TrackImage_OnDisable_mA28FA75136F3A53806F15C541C164DB5CAA46F21 (void);
+// 0x0000002A System.Void TrackImage::ImageChanged(UnityEngine.XR.ARFoundation.ARTrackedImagesChangedEventArgs)
+extern void TrackImage_ImageChanged_mD3B4613D426E2902DD04B1A93F7FCB48EE883B47 (void);
+// 0x0000002B System.Void TrackImage::UpdateImage(UnityEngine.XR.ARFoundation.ARTrackedImage)
+extern void TrackImage_UpdateImage_mB723F71A219A39D5C293018C59B8EF65196D014A (void);
+// 0x0000002C System.Void TrackImage::FixedUpdate()
+extern void TrackImage_FixedUpdate_m7AFEF9E8FB3F0196D38C16D80A6574786DA7BBBD (void);
+// 0x0000002D System.Void TrackImage::.ctor()
 extern void TrackImage__ctor_m936AFE56F0CB7AEDDB9BD513FCFD4DDB6F9B72F5 (void);
-// 0x00000029 System.UInt32 <PrivateImplementationDetails>::ComputeStringHash(System.String)
+// 0x0000002E System.UInt32 <PrivateImplementationDetails>::ComputeStringHash(System.String)
 extern void U3CPrivateImplementationDetailsU3E_ComputeStringHash_mD94B0E22EF32AD3DFD277ED8E911B5DFA4CDB91E (void);
-static Il2CppMethodPointer s_methodPointers[41] = 
+static Il2CppMethodPointer s_methodPointers[46] = 
 {
 	Brach_OnCollisionStay_mE9C43F4BCBBEF4E748F5E76E7273798B908B70BA,
 	Brach_PlaySound_m2D5EA2B355530A3D987FD25846A2231E3D001ECB,
@@ -129,12 +139,17 @@ static Il2CppMethodPointer s_methodPointers[41] =
 	Manager_FixedUpdate_m3967890A5CF50A8D511044380A4F455D7163E2EB,
 	Manager_OnGUI_mFF6454FAA70CEA0CF3650C23BB42F393E4D437F2,
 	Manager__ctor_m5B9F7AAE653DB0466943D59D3579FFCCFC32631E,
+	SceneExit_ExitScene_mCC664843E50A1853600DCB4BC3B79D6E26683395,
+	SceneExit__ctor_m0228E055545645AE7F6C10117B7C113F172AC793,
+	SceneMover_SceneChange_m3970B813D2EC365B516BD05D2374F7FDBF1E8B3F,
+	SceneMover__ctor_m98CC19B6140248C1AD3110BF8545002ED03B134A,
 	TrackImage_Awake_mC566BA6BE4424B913AA3027949ED9248E67B3178,
+	TrackImage_Update_m460CABD3F561935BAC42ECF769C0C3CBE311AC3F,
 	TrackImage_OnEnable_m8B48C5057447D4C137EBF60310C3F640A519F6D2,
 	TrackImage_OnDisable_mA28FA75136F3A53806F15C541C164DB5CAA46F21,
 	TrackImage_ImageChanged_mD3B4613D426E2902DD04B1A93F7FCB48EE883B47,
 	TrackImage_UpdateImage_mB723F71A219A39D5C293018C59B8EF65196D014A,
-	TrackImage_Update_m460CABD3F561935BAC42ECF769C0C3CBE311AC3F,
+	TrackImage_FixedUpdate_m7AFEF9E8FB3F0196D38C16D80A6574786DA7BBBD,
 	TrackImage__ctor_m936AFE56F0CB7AEDDB9BD513FCFD4DDB6F9B72F5,
 	U3CPrivateImplementationDetailsU3E_ComputeStringHash_mD94B0E22EF32AD3DFD277ED8E911B5DFA4CDB91E,
 };
@@ -143,56 +158,61 @@ static Il2CppTokenAdjustorThunkPair s_adjustorThunks[1] =
 {
 	{ 0x0600001C, _PathEditor__ctor_m5AC6B755A39BE70B42F34F0A7ED76643BC4D01EE_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[41] = 
+static const int32_t s_InvokerIndices[46] = 
 {
-	1608,
-	874,
-	1967,
-	1967,
-	1967,
-	1608,
-	874,
-	1967,
-	1967,
-	1967,
-	1967,
-	1624,
-	797,
-	1626,
-	1967,
-	1633,
-	1967,
-	51,
-	0,
-	1626,
-	1967,
-	537,
-	170,
-	38,
-	1956,
-	63,
-	1967,
-	322,
-	1967,
-	1967,
-	1967,
-	1967,
-	1967,
-	1967,
-	1967,
-	1967,
-	1565,
-	1608,
-	1967,
-	1967,
-	3185,
+	1989,
+	1074,
+	2462,
+	2462,
+	2462,
+	1989,
+	1074,
+	2462,
+	2462,
+	2462,
+	2462,
+	2010,
+	973,
+	2013,
+	2462,
+	2030,
+	2462,
+	54,
+	3,
+	2013,
+	2462,
+	622,
+	186,
+	41,
+	2437,
+	67,
+	2462,
+	384,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	2462,
+	1938,
+	1989,
+	2462,
+	2462,
+	3835,
 };
 extern const CustomAttributesCacheGenerator g_AssemblyU2DCSharp_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	41,
+	46,
 	s_methodPointers,
 	1,
 	s_adjustorThunks,
