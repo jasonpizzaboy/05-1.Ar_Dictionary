@@ -10,6 +10,9 @@ public class TrackImage : MonoBehaviour
     public List<GameObject> objList = new List<GameObject>();                   //list type = GameObject
     Dictionary<string, GameObject> prefDic = new Dictionary<string, GameObject>();  //키, 벨류 으로 구성된 딕셔너리
 
+    private List<ARTrackedImage> _trackedImg = new List<ARTrackedImage>();
+    private List<float> __tractedTimer = new List<float>();
+
     void Awake()
     {
         foreach (GameObject obj in objList)
