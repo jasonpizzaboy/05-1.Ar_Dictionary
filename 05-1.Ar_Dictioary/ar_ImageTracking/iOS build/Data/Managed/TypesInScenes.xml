@@ -56,9 +56,15 @@
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="Brach" preserve="nothing"/>
 		<type fullname="Rex" preserve="nothing"/>
+		<type fullname="Rotation" preserve="nothing"/>
 		<type fullname="SceneExit" preserve="nothing"/>
 		<type fullname="SceneMover" preserve="nothing"/>
 		<type fullname="TrackImage" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputSettings" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.InputSystemObject" preserve="nothing"/>
+		<type fullname="UnityEngine.InputSystem.RemoteInputPlayerConnection" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.XR.ARFoundation">
 		<type fullname="UnityEngine.XR.ARFoundation.ARCameraBackground" preserve="nothing"/>

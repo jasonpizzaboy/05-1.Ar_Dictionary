@@ -111,12 +111,12 @@ public class TrackImage : MonoBehaviour
         
     }
 
-  public float rotationSpeed = 50f;
+  /*public float rotationSpeed = 30f;
 
     void FixedUpdate()
     {
-        
-        transform.Rotate(0f, -rotationSpeed * Time.deltaTime, 0f);
-    
-    }
+        GameObject obj = _prefabfDic[name];
+        //transform.Rotate( 0f,-rotationSpeed * Time.deltaTime, 0f);
+        transform.RotateAround(objList.po, Vector3.up, rotationSpeed*Time.deltaTime);
+    }*/
 }

@@ -11,6 +11,7 @@
 		012A45DFBF8F0D604D44E80A /* Il2CppInteropDataTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 297D40238DCD34CA658DF7BD /* Il2CppInteropDataTable.cpp */; };
 		01A0498CB06DF9FB13E68D1F /* Il2CppGenericComDefinitions7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F4864E56837F9FB97B550315 /* Il2CppGenericComDefinitions7.cpp */; };
 		02C94D1493F3C57323F8336F /* Il2CppCCalculateTypeValues.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 62E64FAA919868C3B1BCF48B /* Il2CppCCalculateTypeValues.cpp */; };
+		03AD49A19274BD53A89696D7 /* Il2CppGenericComDefinitions39.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33B04B79B6BE9CDA811885A6 /* Il2CppGenericComDefinitions39.cpp */; };
 		04334009AA2F43576F0CCC51 /* UnityEngine.GameCenterModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9CDF4939B03E377D3D954404 /* UnityEngine.GameCenterModule_Attr.cpp */; };
 		050D4E199DDE214495F51E94 /* Generics12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FC374219A35FF93BD5D1DC29 /* Generics12.cpp */; };
 		0555484E9B7C4FF6BC106EE0 /* Il2CppReversePInvokeWrapperTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4EB46B5A9CC26DE5E8830BA /* Il2CppReversePInvokeWrapperTable.cpp */; };
@@ -24,10 +25,13 @@
 		0A964BA0B2437F221FA42644 /* libUnityARKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78EE411DB7B0BDDBF98183FE /* libUnityARKit.a */; };
 		0B054B6C9DAC2E3A815E1B57 /* Il2CppGenericComDefinitions9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 69D3406683E30FD706E62DF7 /* Il2CppGenericComDefinitions9.cpp */; };
 		0B3847C3B61B9B64B74875B0 /* UnityEngine.UI2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 43F14CF2BF64B0325C54C9B4 /* UnityEngine.UI2.cpp */; };
+		0C544B0D9EBD3E3577FEBBF4 /* Generics17.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CD194D28A0ADA0DF3FED270C /* Generics17.cpp */; };
 		0C8F40DB9FB7171BE2D68757 /* GameController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42CA44E3BC8221241D2B6873 /* GameController.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		0E3448BEBBFA46510849625B /* Generics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9A61404BB71AF921CA9DA0D9 /* Generics.cpp */; };
 		0EE0494694AAE771E0D80D82 /* UnityEngine.GridModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = CDC64192BB451A9CB091627B /* UnityEngine.GridModule_CodeGen.c */; };
 		0F2D463DA47BC06CDD762267 /* Il2CppGenericComDefinitions21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26684438B65FDA291DC51AE1 /* Il2CppGenericComDefinitions21.cpp */; };
+		0F894C5480C8140BB96A72CE /* Il2CppGenericComDefinitions42.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 71AF4C179ABA3E360E57C125 /* Il2CppGenericComDefinitions42.cpp */; };
+		0FA7470FB0658DA0235F171B /* Generics19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A2A48D79E85C318013E2030 /* Generics19.cpp */; };
 		10D24F419DA054DB620CF243 /* UnityEngine.Physics2DModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9EBE4D54BF273FA939FAF1BD /* UnityEngine.Physics2DModule.cpp */; };
 		11F34F0B9D527B55F5401227 /* Il2CppMetadataRegistration.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F9F4E10A2C6544EB21919F4 /* Il2CppMetadataRegistration.c */; };
 		12274974BE0CBFA129B75770 /* LaunchScreen-iPhonePortrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 12ED4C279450AD0E89A20B1B /* LaunchScreen-iPhonePortrait.png */; };
@@ -38,6 +42,7 @@
 		15A44E8385BC2E0335B2DB1C /* UnityEngine_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4DAD4BD4BC2632CB75356720 /* UnityEngine_Attr.cpp */; };
 		16F841719AFA471C11A85FC5 /* Il2CppCodeRegistration.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E75B417983D5957294AF052D /* Il2CppCodeRegistration.cpp */; };
 		1767423387997B5EFC8F7F3B /* System2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 75A84402AB0953331D62EEC5 /* System2.cpp */; };
+		17E44863BAFF1313F735F1A6 /* Generics20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4AA64785A7B4CC7D89AC05E8 /* Generics20.cpp */; };
 		197D4FE5B3C846F7B6932C18 /* UnityEngine.UIElementsNativeModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D84541BD9F8BF4A761E92249 /* UnityEngine.UIElementsNativeModule_Attr.cpp */; };
 		1A2B4034B3A12C35A439B122 /* Il2CppGenericComDefinitions13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 96B7456A9DE2A27EC58A0231 /* Il2CppGenericComDefinitions13.cpp */; };
 		1A2C4592B9AD2844729B38C5 /* UnityEngine.UI1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FFAD43BB9F15796B2A04C74D /* UnityEngine.UI1.cpp */; };
@@ -48,17 +53,21 @@
 		1CCB41DE97B05F905C72F37C /* UnityEngine.SharedInternalsModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B51D4B8480C127549B20BAC3 /* UnityEngine.SharedInternalsModule_Attr.cpp */; };
 		1CF54B2995530C4E69A3675D /* mscorlib1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 74EB4598BBF85146F96C44ED /* mscorlib1.cpp */; };
 		1DCA4E5EB699D64C2F1A93B6 /* LaunchScreen-iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = AE7E4C24B3BD7A8E360F092C /* LaunchScreen-iPad.png */; };
+		1EB94B61A31E2F7CAD0D5B62 /* Generics16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3FBD4DA9AE0FF51760F028BC /* Generics16.cpp */; };
 		1F574174AA2BFE8CB4F7A1E1 /* System.Xml_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B54D43C8960528F50F51A55E /* System.Xml_Attr.cpp */; };
 		20CA4D2885FDEF2160ED373D /* UnityEngine.TilemapModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 971C4268B7736FBA28699CCC /* UnityEngine.TilemapModule_CodeGen.c */; };
 		21804F39AC55605F21DDBA94 /* Generics6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B7C44D0AB35157DAF9541E8 /* Generics6.cpp */; };
 		234340869BE5C062AFE06802 /* UnityEngine.SpriteShapeModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = CB0045078A9082BEEC9654DE /* UnityEngine.SpriteShapeModule_CodeGen.c */; };
 		24634D2491C4BB4D0CFE124A /* Il2CppGenericComDefinitions23.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 928848469C3FFE8154DE4B37 /* Il2CppGenericComDefinitions23.cpp */; };
+		259141FDA6F3B7872450F08B /* Il2CppGenericComDefinitions47.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C4DC4E3BB99EEC4988A12447 /* Il2CppGenericComDefinitions47.cpp */; };
 		267C4F73BB40D157B8402F5B /* UnityEngine.TilemapModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2EE449B38CFD993B7DEC31CB /* UnityEngine.TilemapModule_Attr.cpp */; };
 		26A74CC0BD4A8B73EBF94817 /* Il2CppGenericComDefinitions31.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3C3D4102A004DBEA18589659 /* Il2CppGenericComDefinitions31.cpp */; };
 		275D4808ABCD0E4EAE66DF23 /* System.Core_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 197C42828464030C482E3149 /* System.Core_Attr.cpp */; };
 		27D0431A8B7B6853530D1402 /* Unity.XR.ARKit.FaceTracking_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 207E4B85B2825CB7E3B8E53D /* Unity.XR.ARKit.FaceTracking_Attr.cpp */; };
+		28024740AD31D798594FB2D5 /* Unity.InputSystem4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 099D407B91F159B554E6AC2B /* Unity.InputSystem4.cpp */; };
 		288C4ED4B8A6C0038125F0CA /* Il2CppTypeDefinitions.c in Sources */ = {isa = PBXBuildFile; fileRef = D96244C3B5224279EDDE1C47 /* Il2CppTypeDefinitions.c */; };
 		28FE43EAB61704B1042E6050 /* mscorlib11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B3A46FFAE3CED6B1747FADC /* mscorlib11.cpp */; };
+		290E431BBE42684A62566A53 /* Unity.InputSystem_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = A56A437594F20A0BA61899B1 /* Unity.InputSystem_CodeGen.c */; };
 		2BE5435D9140597E3FB2FBE4 /* UnityEngine.IMGUIModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = AB714FAEBA5F6A2331B2ABCA /* UnityEngine.IMGUIModule_CodeGen.c */; };
 		2C9C42C1ACD7EEE2DB31535E /* mscorlib7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE1845B2905AFB224D201AD6 /* mscorlib7.cpp */; };
 		2D0546749EFBBF2E6EFC6819 /* UnityEngine.SharedInternalsModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 39944DD78B109EF3544220FB /* UnityEngine.SharedInternalsModule.cpp */; };
@@ -72,6 +81,7 @@
 		3C1A4638B19EDAC97B360AF9 /* Il2CppGenericComDefinitions36.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00264FFAAD74AD99AFE8778F /* Il2CppGenericComDefinitions36.cpp */; };
 		3C314D04B93F181F39F8CB94 /* Il2CppGenericComDefinitions15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 64FC4B6EA72487D83565CB42 /* Il2CppGenericComDefinitions15.cpp */; };
 		3D1B44109480A9F34E439466 /* ARKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19AA4A6286239E9774717125 /* ARKit.framework */; };
+		3DAF47F89613BF4045E00E18 /* GenericMethods6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AC474D559B7C24385DF16AE5 /* GenericMethods6.cpp */; };
 		40014366AB561929B430D3C1 /* ARReferenceImages.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E6A475182B9EA330C083E34 /* ARReferenceImages.xcassets */; };
 		41B34349B13952FBD7AA8134 /* System_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 16F84702916A34491A117A8E /* System_Attr.cpp */; };
 		42EA447DAB40068026C365A3 /* UnityEngine.TerrainModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 80FC4C42AD2DFE35F4967690 /* UnityEngine.TerrainModule.cpp */; };
@@ -93,20 +103,24 @@
 		4D174A7CA735399E08E9005C /* Unity.XR.ARSubsystems.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FDBC45C38D3238E4644875A4 /* Unity.XR.ARSubsystems.cpp */; };
 		4D524B0BB2A2513F20D35EEA /* mscorlib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 00B54211B190AACADBB6F505 /* mscorlib.cpp */; };
 		4E11489C9470AECD008B9B59 /* UnityEngine.UIElementsNativeModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50B54E2CA94571EDF8416A70 /* UnityEngine.UIElementsNativeModule.cpp */; };
+		4F974BF1A2844F4B9BD35945 /* GenericMethods5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5F1A4393B44D3D22F32DC8BE /* GenericMethods5.cpp */; };
 		50E6485B8B4553B57229D343 /* UnityEngine.InputModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = C1B34E07BC06AF7EA2338CFC /* UnityEngine.InputModule_CodeGen.c */; };
 		511343F1B75967750E5CD677 /* profile.json in Resources */ = {isa = PBXBuildFile; fileRef = 64F147A8BBBDFD6E6D5A4902 /* profile.json */; };
 		51D94F1DB9C5D3887E3F32FA /* mscorlib13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 68B84F928D5A7D4F161C0848 /* mscorlib13.cpp */; };
 		526945B1B8E090B1B2A6936F /* UnityEngine.InputLegacyModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 93AF4A4E8DC094B32EBC6196 /* UnityEngine.InputLegacyModule_CodeGen.c */; };
 		539F4FB4B6A82C4AF3C499D6 /* Il2CppGenericComDefinitions1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E7F34611B68F55496817F594 /* Il2CppGenericComDefinitions1.cpp */; };
 		55874B1D9C42B21CAE130845 /* mscorlib6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 091E48BEA201925A5A80DE61 /* mscorlib6.cpp */; };
+		55FD4863B66D355C49CFA0EE /* Il2CppGenericComDefinitions48.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0B0E46EBAB6B4FE15BDEF72B /* Il2CppGenericComDefinitions48.cpp */; };
 		561D4DFAB2D22518D596ACF9 /* mscorlib4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6FCE43DF84BB3B299AF2851E /* mscorlib4.cpp */; };
 		5623C57617FDCB0800090B9E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		5623C57717FDCB0800090B9E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 830B5C100E5ED4C100C7819F /* UIKit.framework */; };
 		5623C57D17FDCB0900090B9E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5623C57B17FDCB0900090B9E /* InfoPlist.strings */; };
 		5623C57F17FDCB0900090B9E /* Unity_iPhone_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5623C57E17FDCB0900090B9E /* Unity_iPhone_Tests.m */; };
+		56A44EB3B1B3231F1020C7D7 /* Il2CppGenericComDefinitions43.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CCEA4AF0B7FF1DF844AEF694 /* Il2CppGenericComDefinitions43.cpp */; };
 		56C56C9817D6015200616839 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56C56C9717D6015100616839 /* Images.xcassets */; };
 		574D4B1594B14E291B75A568 /* UnityEngine.GridModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7CC540E4B9BC60D280554781 /* UnityEngine.GridModule_Attr.cpp */; };
 		578B47C5AE0B08D00DB488A1 /* LaunchScreen-iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A6943B28BD82D8A1A7238E2 /* LaunchScreen-iPad.storyboard */; };
+		591341DEAC245341E432A168 /* Il2CppGenericComDefinitions41.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0008495AA968C56F3CB7FC75 /* Il2CppGenericComDefinitions41.cpp */; };
 		594D46C88D03CD9A9DC1CAF0 /* UnityEngine.XRModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 43274C8CB94D5A4E5E0CF294 /* UnityEngine.XRModule_CodeGen.c */; };
 		59964638923DAEB020F0ED85 /* mscorlib10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0F6D424485900C428162AA4A /* mscorlib10.cpp */; };
 		59E842B4A8612CB4E69B1FDE /* Il2CppGenericComDefinitions32.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 625F45A3A3D2DB825C85BB02 /* Il2CppGenericComDefinitions32.cpp */; };
@@ -115,6 +129,9 @@
 		5F5349528138A8B4119356EC /* UnityEngine.IMGUIModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E876453E86D7F05FD8315868 /* UnityEngine.IMGUIModule.cpp */; };
 		5F7D45A6B3A56BC1195625D2 /* Il2CppGenericComDefinitions22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5CA54EBB885B6CEAFB796F3D /* Il2CppGenericComDefinitions22.cpp */; };
 		60D44357BE6EB31AA0176C05 /* Il2CppGenericComDefinitions27.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2B6345D39AED9D95015951C5 /* Il2CppGenericComDefinitions27.cpp */; };
+		61804028AF148E730AD8AB0E /* Unity.InputSystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F9B44BF8024012189828CCD /* Unity.InputSystem.cpp */; };
+		61874030BE48E2DEF480D9B9 /* UnityEngine.VRModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BF684781903F5DF846D5C1EA /* UnityEngine.VRModule.cpp */; };
+		629640C6AD99DB00B68C4440 /* Generics22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 16FE43E9975142265CA7B253 /* Generics22.cpp */; };
 		68ED48D3B07A6CEEFBD3DE7A /* Il2CppGenericComDefinitions10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C40E7BA450465A1541866 /* Il2CppGenericComDefinitions10.cpp */; };
 		6997461D95073638FB491743 /* Il2CppGenericComDefinitions12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A88A49E7918E0B712B27822D /* Il2CppGenericComDefinitions12.cpp */; };
 		6A0C43B2B70F8CC937506B65 /* UnityClassRegistration.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 19E04E728767DBF851359247 /* UnityClassRegistration.cpp */; };
@@ -123,12 +140,15 @@
 		6EDA4D5CA95C6E6D89CD55F1 /* Unity.XR.Management.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A20E4C2090B8A1DED4E9C6E7 /* Unity.XR.Management.cpp */; };
 		6EE84D95A11EBFDE52EEF254 /* UnityEngine.ParticleSystemModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 293B47438C0BDDCEC729EEF5 /* UnityEngine.ParticleSystemModule_CodeGen.c */; };
 		6FDC4BACBDB400BE84B15EC0 /* Il2CppCCTypeValuesTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 30E147D0BF1EE4B901F2A811 /* Il2CppCCTypeValuesTable.cpp */; };
+		709245E69E6D0368354A0509 /* UnityEngine.VRModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E8ED4449BD96E6E912F3EA61 /* UnityEngine.VRModule_Attr.cpp */; };
 		70B6470881DFFE3CEEB2E6A5 /* UnityEngine.InputModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 66BF4118A7A9C527E6EFFB98 /* UnityEngine.InputModule_Attr.cpp */; };
+		70F04686A9568FF2C794B780 /* Unity.InputSystem1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9ED74FE3A15160E706D69F86 /* Unity.InputSystem1.cpp */; };
 		71474C7796267677C65DC18A /* Unity.XR.ARKit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 669E489F9F3BAFE9AFBE7E4C /* Unity.XR.ARKit.cpp */; };
 		71A54ED89384393E154A8A40 /* UnityEngine.UIElementsModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 6EB74252B19984E1E8BCFEE1 /* UnityEngine.UIElementsModule_CodeGen.c */; };
 		71D9402CBB200149FC2077A1 /* Il2CppGenericComDefinitions16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ACFC4F7B8AA74FA14EF3CFFA /* Il2CppGenericComDefinitions16.cpp */; };
 		74934464B5957A4F5B86754E /* Il2CppGenericComDefinitions28.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B47A45A488CD0EFFA1FA4E1B /* Il2CppGenericComDefinitions28.cpp */; };
 		74AF4C928B02C1F0E4CDDF2E /* UnresolvedVirtualCallStubs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 579F4D74B4AADD162AF2F1FD /* UnresolvedVirtualCallStubs.cpp */; };
+		74D741D5819A1FF673CDBF12 /* Il2CppGenericComDefinitions45.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C9EA4B7693565F175D4EED30 /* Il2CppGenericComDefinitions45.cpp */; };
 		758B44B6BCF5C2A49655BF6E /* Generics10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7D21466F88E5144BB685D080 /* Generics10.cpp */; };
 		762D48EB89FB38B79FBE1EC2 /* UnityEngine.AudioModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = A756456582E4E226976C0081 /* UnityEngine.AudioModule_CodeGen.c */; };
 		76B5453ABF6AD5A574BB3AAA /* Unity.XR.Management_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AFD2432E8D7CB349488590F3 /* Unity.XR.Management_Attr.cpp */; };
@@ -140,10 +160,14 @@
 		790B490D93C4B4E8AE8814CE /* UnityEngine.SharedInternalsModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 0FE64DA4A804AB0660D56A9A /* UnityEngine.SharedInternalsModule_CodeGen.c */; };
 		7B6B4C848175EBC57B911D4C /* UnityEngine.TextRenderingModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2494424A9FDE4884026E5C1D /* UnityEngine.TextRenderingModule_Attr.cpp */; };
 		7B7A4012A1BAD4329D67E71B /* Generics14.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6F2D4964B9EEF1A146270C0B /* Generics14.cpp */; };
+		7E5346EB952721A72104FCC2 /* Unity.InputSystem3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4520429CACA4BF5806421443 /* Unity.InputSystem3.cpp */; };
 		81A24D0F8B8035306427BD6B /* System.Xml_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 81F146DEB0FCD794002C8263 /* System.Xml_CodeGen.c */; };
 		829746B49E4C30D029869AE8 /* mscorlib_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EC92423E914DBD7AF562317A /* mscorlib_Attr.cpp */; };
 		83264AAE84372301D6B5CCB2 /* mscorlib8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 950743E6B0B4F96688DBE5B3 /* mscorlib8.cpp */; };
+		858A48C1961D0FC5219AC1B6 /* UnityEngine.VRModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 2DC749B088B3D994A6FF1112 /* UnityEngine.VRModule_CodeGen.c */; };
 		862C245020AEC7AC006FB4AD /* UnityWebRequest.mm in Sources */ = {isa = PBXBuildFile; fileRef = 862C244F20AEC7AC006FB4AD /* UnityWebRequest.mm */; };
+		866D47DAB0D90367ECA46A54 /* Il2CppGenericComDefinitions46.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 624C4F48A5371FBF52218C76 /* Il2CppGenericComDefinitions46.cpp */; };
+		86C74940BA2B23238A7C7BB1 /* Unity.InputSystem_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4A25485F9E1818FF14233074 /* Unity.InputSystem_Attr.cpp */; };
 		86D54D31A27B1484E02AA226 /* UnityICallRegistration.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 963C4402B8CFF9A9CAB7BA73 /* UnityICallRegistration.cpp */; };
 		872745EA93EC51EA71DFAFD0 /* Generics15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2E014EADB9F811B99EF297A0 /* Generics15.cpp */; };
 		88884413951A3BE742290B4B /* System.Core_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = B95C404287AEFCDEBF934890 /* System.Core_CodeGen.c */; };
@@ -154,12 +178,15 @@
 		8B584AD4B65D3147E4B5C5A6 /* UnityEngine.AnimationModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = DDAD44D18965DF7C4F774AE2 /* UnityEngine.AnimationModule_CodeGen.c */; };
 		8BBE4770BC8434FB91482DA8 /* Unity.XR.Management_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 2976461EB7F0EA4573E5D233 /* Unity.XR.Management_CodeGen.c */; };
 		8C79465DB21060452FA456BA /* mscorlib12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27BA4A84B46A104AEF2FF615 /* mscorlib12.cpp */; };
+		8C9A4C90A76CE68F142EE959 /* Il2CppGenericComDefinitions37.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D9734595ACE43397F6D3AF8D /* Il2CppGenericComDefinitions37.cpp */; };
+		8CCF49BBB650A80E088DF60E /* Il2CppGenericComDefinitions44.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 33A84EF5B2EDE1792D39BEC4 /* Il2CppGenericComDefinitions44.cpp */; };
 		8E4943C39A103059E298D109 /* mscorlib15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D12419EA6BC3931BFCABE0A /* mscorlib15.cpp */; };
 		8E55496EA89A45006977CC56 /* Assembly-CSharp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1D8F43B7A4114BED897D9C12 /* Assembly-CSharp.cpp */; };
 		9040426EA90803D8ADED00F5 /* Generics2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 400E448A976F7E50C7D4FA5D /* Generics2.cpp */; };
 		91044162BBEEF2FC8FC4E0A6 /* Il2CppGenericComDefinitions2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 46EC427C963A59C6ACC05829 /* Il2CppGenericComDefinitions2.cpp */; };
 		91A1416DAE64EBECD6B5C597 /* UnityEngine.XRModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EEE645ACBE23D7A7550C0154 /* UnityEngine.XRModule.cpp */; };
 		92B54BA1B2CB13562BED7B00 /* Unity.XR.ARKit.FaceTracking_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 537B4A1A86DA2EC8A6257063 /* Unity.XR.ARKit.FaceTracking_CodeGen.c */; };
+		9333433E8105DB9B67604A63 /* Unity.InputSystem5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AD2947468786292150904776 /* Unity.InputSystem5.cpp */; };
 		94034113A51C7D58D70288AF /* UnityEngine.SpatialTracking_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 337A42E098EA5D119661775E /* UnityEngine.SpatialTracking_CodeGen.c */; };
 		94D841D9ACD811C78B717B6D /* Assembly-CSharp_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 1455429589BE8D2A74F4B7B2 /* Assembly-CSharp_CodeGen.c */; };
 		97224E148D48D0175582C7A0 /* GenericMethods1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D5114F6BB2C1DC59657E069B /* GenericMethods1.cpp */; };
@@ -167,6 +194,7 @@
 		98724E9CA375603D751932C3 /* UnityEngine.SpriteShapeModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 854A47EF8298D401D63A6116 /* UnityEngine.SpriteShapeModule_Attr.cpp */; };
 		995B4BE9A710EBE503F7BEFC /* UnityEngine.UIModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 53A04BC2924926AE37877697 /* UnityEngine.UIModule_CodeGen.c */; };
 		9B7F4A32BEAB4363435C909E /* UnityEngine.CoreModule1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 726B4736BE6ADBB2CB64D99C /* UnityEngine.CoreModule1.cpp */; };
+		9BEC4657A3BA85B19B9D824D /* Unity.InputSystem2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361147FF842B8600E405AE13 /* Unity.InputSystem2.cpp */; };
 		9D0A618B21BFE7F30094DC33 /* libiconv.2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D0A618A21BFE7F30094DC33 /* libiconv.2.tbd */; };
 		9D25ABA1213FB47800354C27 /* UnityFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 9D25AB9F213FB47800354C27 /* UnityFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9D25ABA5213FB47800354C27 /* UnityFramework.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9D25AB9D213FB47800354C27 /* UnityFramework.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -232,6 +260,8 @@
 		9DC67E8921CBBEDF005F9FA1 /* LifeCycleListener.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A292A9717992CE100409BA4 /* LifeCycleListener.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9DFA7F9D21410F2E00C2880E /* main.mm in Sources */ = {isa = PBXBuildFile; fileRef = D82DCFBB0E8000A5005D6AD8 /* main.mm */; };
 		9EA844CC9EE028004D888D2A /* System_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 6ED047B8A4F1901271892CA4 /* System_CodeGen.c */; };
+		9F344982904F9AE38CCF9EBE /* UnityEngine.JSONSerializeModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = DE35487BA4A2957B94F0AE7A /* UnityEngine.JSONSerializeModule_CodeGen.c */; };
+		A0864C7085ED5B1B031D5C8E /* Il2CppGenericComDefinitions49.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EDE84E0A98349393912589E0 /* Il2CppGenericComDefinitions49.cpp */; };
 		A0BB4E53A104EBE8C416FAD3 /* Il2CppGenericComDefinitions19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3C954343B15378B24444600A /* Il2CppGenericComDefinitions19.cpp */; };
 		A0FC4B3ABBCCE0C7CA6A2B5B /* Il2CppCCFieldValuesTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0BF24AC391F3B7C5765FF33F /* Il2CppCCFieldValuesTable.cpp */; };
 		A1104ADDA8DF828789E48192 /* UnityEngine.GameCenterModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = A2164E71BC435C659A74A734 /* UnityEngine.GameCenterModule_CodeGen.c */; };
@@ -242,6 +272,7 @@
 		A36E4D69BA983ABA44A1D7EE /* UnityEngine.TilemapModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0CA845F7916B84029CBAFDAE /* UnityEngine.TilemapModule.cpp */; };
 		A57346F8B5B4A563C7432A91 /* Il2CppCCalculateFieldValues.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93C84C55A0CC81F9C0E62BA9 /* Il2CppCCalculateFieldValues.cpp */; };
 		A63645E4B3E35FDD3DDACF35 /* Il2CppGenericComDefinitions4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 80A84DF3B6DC1E885942685C /* Il2CppGenericComDefinitions4.cpp */; };
+		A674420481A73A17154AB55F /* UnityEngine.JSONSerializeModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C5A149C6BA2C47726CD3AA09 /* UnityEngine.JSONSerializeModule.cpp */; };
 		A6834A73BE1E359EFB0975AF /* UnityEngine.CoreModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A1644EF7A8B725EF65935A01 /* UnityEngine.CoreModule_Attr.cpp */; };
 		A6E540588147CA3E0B41023A /* UnityEngine.IMGUIModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C370475CA1E5794320B46EC5 /* UnityEngine.IMGUIModule_Attr.cpp */; };
 		A7AD4B4BAF93B6C8AF0CE353 /* Il2CppGenericComDefinitions3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A59E4375A31BF54F7966ABC8 /* Il2CppGenericComDefinitions3.cpp */; };
@@ -251,6 +282,7 @@
 		AB534D05B3AE5CFB30C210DA /* UnityEngine.SpatialTracking.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 012D4386829B82A356AEABFC /* UnityEngine.SpatialTracking.cpp */; };
 		ACAF47779D76D1CA048A8D0B /* UnityEngine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BD34BE1AFA7C36231C34B5B /* UnityEngine.cpp */; };
 		ADEC454EAF0562989834533C /* UnityEngine.XRModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B0544661AA073D310F63DF47 /* UnityEngine.XRModule_Attr.cpp */; };
+		AF2348968665579C72719F08 /* UnityEngine.JSONSerializeModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 470646D084AA4109551CBCE3 /* UnityEngine.JSONSerializeModule_Attr.cpp */; };
 		AF4A42E7A12B74926C4C651A /* UnityEngine.ParticleSystemModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3FF34948BB6AB792D20F5E69 /* UnityEngine.ParticleSystemModule.cpp */; };
 		B1064AEF9573DEDD2E75183E /* UnityEngine.ARModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7B074B5AA047F3E3400BC65F /* UnityEngine.ARModule.cpp */; };
 		B298444F9775FEAD4FC448B4 /* Assembly-CSharp_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 975C44DE9171C7F91826EC7B /* Assembly-CSharp_Attr.cpp */; };
@@ -262,6 +294,7 @@
 		B65743D0BB9783B726AB7DB5 /* mscorlib2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AE9B40369A27E6D14F26EA51 /* mscorlib2.cpp */; };
 		B66A41E7B410D3774A6D8905 /* UnityEngine.UI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7CC4DB4A6E4C6EF2CD970CE /* UnityEngine.UI.cpp */; };
 		B8E3487B9E32B2B7A4403C66 /* GenericMethods3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA2F4FE3B539D14BE3237139 /* GenericMethods3.cpp */; };
+		BB2A4F6F95C622229C7525C4 /* Unity.InputSystem7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 251E406B990AC0A37DC22ED9 /* Unity.InputSystem7.cpp */; };
 		BB7C4766B40E002EFC60ECC3 /* Il2CppGenericComDefinitions33.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 284F421C885C947D80B5EF72 /* Il2CppGenericComDefinitions33.cpp */; };
 		BCE04559828CAA7FEE3F72B1 /* Il2CppGenericInstDefinitions.c in Sources */ = {isa = PBXBuildFile; fileRef = 2C12490B8B3072FED9D8BBC5 /* Il2CppGenericInstDefinitions.c */; };
 		BEB44148AFEF21F3F367D4FC /* UnityEngine.SubsystemsModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C5B477BA0DB7E63EABB61EB /* UnityEngine.SubsystemsModule_Attr.cpp */; };
@@ -269,6 +302,7 @@
 		BFFF4E399EB784623A78C5B4 /* Il2CppInvokerTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6A04400F851AE0C8AA1F18FA /* Il2CppInvokerTable.cpp */; };
 		C1FF4E0A92F8E4183A85F061 /* Il2CppGenericComDefinitions29.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB4647B0B9130CE8A4C9864F /* Il2CppGenericComDefinitions29.cpp */; };
 		C30E4B7DB841F5C8D4C7DFF3 /* IUnityInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = A4E24CE48BCAB07390A69F98 /* IUnityInterface.h */; };
+		C32A49EE91150C174E30A2C7 /* Il2CppGenericComDefinitions38.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AA5F4E6BA24D0ED5E0AD6D8C /* Il2CppGenericComDefinitions38.cpp */; };
 		C40A4440B41FDD8EA0EBB6CD /* Unity.XR.ARFoundation_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = E6834836AA937FDCAAB6BB1C /* Unity.XR.ARFoundation_CodeGen.c */; };
 		C45C4BDDA23A84C4D1413B17 /* Il2CppGenericComDefinitions24.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B77543E1996E2931C526B9CE /* Il2CppGenericComDefinitions24.cpp */; };
 		C5234E0EA10BDE02555DC1AB /* UnityEngine.UIModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3C124C8D812BF7187316D275 /* UnityEngine.UIModule.cpp */; };
@@ -287,12 +321,15 @@
 		D43C440C9C41BC94FFB60461 /* Unity.XR.ARSubsystems1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 862C41F7AE9AE3DE517B084C /* Unity.XR.ARSubsystems1.cpp */; };
 		D4494EB1988EADF3F66F18D8 /* Il2CppGenericComDefinitions5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0CE444C19DF1D200019640F4 /* Il2CppGenericComDefinitions5.cpp */; };
 		D4ED4FB3B782F7E35F3CCF6B /* UnityEngine.AudioModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 78114684B1D8B74F9E28500F /* UnityEngine.AudioModule.cpp */; };
+		D5824F93B98D1BCC476DDFAE /* GenericMethods4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C1714638AD32C756B15A1E55 /* GenericMethods4.cpp */; };
+		D604480380F9EC3B6CA731FD /* Unity.InputSystem6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C8C14CC3B6FE7F17494A1B72 /* Unity.InputSystem6.cpp */; };
 		D6434147B7F5C0431CBD4302 /* Generics5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 69234F20A9BD2B4D8658E757 /* Generics5.cpp */; };
 		D7444BA28704B07730048382 /* UnityEngine.CoreModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9C0B4DCD82B7A40019571AC9 /* UnityEngine.CoreModule.cpp */; };
 		D7A34CFDB5D9BBF58B8411E2 /* Mono.Security_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F62B4757A6467E7CB3795A35 /* Mono.Security_Attr.cpp */; };
 		D91948978CCA44674CE57835 /* UnityEngine.ParticleSystemModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0DCA421AAE580114DC69B0F0 /* UnityEngine.ParticleSystemModule_Attr.cpp */; };
 		D9D8443CBD224CE6481A9701 /* Unity.XR.ARSubsystems_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = E5534D22A93405E21E0A0FA3 /* Unity.XR.ARSubsystems_CodeGen.c */; };
 		DADB436CB3F17B20AED63AD5 /* Il2CppGenericAdjustorThunkTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 04624D2E98B28DA0ABB534D2 /* Il2CppGenericAdjustorThunkTable.cpp */; };
+		DB224CC5AE5BC249D6BB2BDA /* Il2CppCCalculateFieldValues1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06394C1489D14DE93B39BA1A /* Il2CppCCalculateFieldValues1.cpp */; };
 		DBA545BD82126649A6D232EF /* Il2CppGenericComDefinitions35.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0CA34701A3E7FB7F726270A6 /* Il2CppGenericComDefinitions35.cpp */; };
 		DCE14379B7C89B17C98E5FE9 /* Unity.XR.ARKit_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 607C4BCFA558169D456847D0 /* Unity.XR.ARKit_CodeGen.c */; };
 		DDA94F3E895A254841B4F784 /* Il2CppGenericComDefinitions34.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 57444317B6E46BF79299CFF6 /* Il2CppGenericComDefinitions34.cpp */; };
@@ -303,14 +340,17 @@
 		E42F45668CFAC8412A7C101C /* Il2CppGenericComDefinitions26.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 322E4FCBA4FE0B164ADF1121 /* Il2CppGenericComDefinitions26.cpp */; };
 		E505451098BAC89E492DA26F /* Il2CppGenericComDefinitions6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50E846A9827DDF769E2CC328 /* Il2CppGenericComDefinitions6.cpp */; };
 		E9894A41A93CE6EA6CD176D8 /* mscorlib3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F6D14ADDAB8CEFEF554AA952 /* mscorlib3.cpp */; };
+		E9F449969A20C9E32BBAF712 /* Il2CppGenericComDefinitions40.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0C06489C96FEB3B269ADF3D1 /* Il2CppGenericComDefinitions40.cpp */; };
 		EAA8499EA061D9F7BF8A810F /* Unity.XR.ARKit.FaceTracking.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0030476BB52742E7DB1B220D /* Unity.XR.ARKit.FaceTracking.cpp */; };
 		EC1F4F51866CA6FEFA2506CA /* System.Configuration_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F0AF4B4A8BC19D9E94FE296B /* System.Configuration_Attr.cpp */; };
 		EDF540C1A42127BCA9CEE684 /* Generics4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FCDF4BE786D8DE305555225D /* Generics4.cpp */; };
 		EE2C4A908488CDC0838170DC /* Generics1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E5BE41A18AA32A0A9E376DB5 /* Generics1.cpp */; };
+		EF0A454B875285DE52D6919A /* Generics21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36F4251A04648EC1298AFD7 /* Generics21.cpp */; };
 		EF784340B9E4E21B0259D693 /* Generics11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 655C40F882C1631C5A9E4E1C /* Generics11.cpp */; };
 		F0654F0B91D52243C3F3C89A /* UnityEngine.InputLegacyModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 551649ABAE9E0D060147DAF7 /* UnityEngine.InputLegacyModule_Attr.cpp */; };
 		F259459BB15909E58621CEEB /* UnityEngine.SpriteShapeModule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 878E46B18E5F4F076E0AE75E /* UnityEngine.SpriteShapeModule.cpp */; };
 		F704442E8D1F1C97AB5C1D09 /* System.Xml.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3BE54F63B20E4C0326F96A95 /* System.Xml.cpp */; };
+		F9C449429C1114E37C96A284 /* Generics18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AFA8465A99C2BB122A45B83C /* Generics18.cpp */; };
 		F9EF44F3A34FF06FAA93C4E5 /* mscorlib5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D74649DC9558FF1A78CFB5AA /* mscorlib5.cpp */; };
 		FC5E439193AD01FD3A1BD268 /* UnityEngine.UIElementsModule_Attr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D91466C9C80BA062AFAA8DA /* UnityEngine.UIElementsModule_Attr.cpp */; };
 		FC8E4739B1BD0C2181C81DDD /* UnityEngine.TextRenderingModule_CodeGen.c in Sources */ = {isa = PBXBuildFile; fileRef = 6403443E97183CE577035E22 /* UnityEngine.TextRenderingModule_CodeGen.c */; };
@@ -359,6 +399,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0008495AA968C56F3CB7FC75 /* Il2CppGenericComDefinitions41.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions41.cpp; path = Classes/Native/Il2CppGenericComDefinitions41.cpp; sourceTree = SOURCE_ROOT; };
 		00264FFAAD74AD99AFE8778F /* Il2CppGenericComDefinitions36.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions36.cpp; path = Classes/Native/Il2CppGenericComDefinitions36.cpp; sourceTree = SOURCE_ROOT; };
 		0030476BB52742E7DB1B220D /* Unity.XR.ARKit.FaceTracking.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.ARKit.FaceTracking.cpp; path = Classes/Native/Unity.XR.ARKit.FaceTracking.cpp; sourceTree = SOURCE_ROOT; };
 		00B54211B190AACADBB6F505 /* mscorlib.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib.cpp; path = Classes/Native/mscorlib.cpp; sourceTree = SOURCE_ROOT; };
@@ -370,10 +411,14 @@
 		036E47FCBBB00BA6EEBBBC98 /* UnityEngine.UI_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UI_Attr.cpp; path = Classes/Native/UnityEngine.UI_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		03F528621B447098000F4FB8 /* Il2CppOptions.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Il2CppOptions.cpp; sourceTree = "<group>"; };
 		04624D2E98B28DA0ABB534D2 /* Il2CppGenericAdjustorThunkTable.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericAdjustorThunkTable.cpp; path = Classes/Native/Il2CppGenericAdjustorThunkTable.cpp; sourceTree = SOURCE_ROOT; };
+		06394C1489D14DE93B39BA1A /* Il2CppCCalculateFieldValues1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppCCalculateFieldValues1.cpp; path = Classes/Native/Il2CppCCalculateFieldValues1.cpp; sourceTree = SOURCE_ROOT; };
 		083842358B08737D9BC07A70 /* UnityEngine.AnimationModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.AnimationModule.cpp; path = Classes/Native/UnityEngine.AnimationModule.cpp; sourceTree = SOURCE_ROOT; };
 		091E48BEA201925A5A80DE61 /* mscorlib6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib6.cpp; path = Classes/Native/mscorlib6.cpp; sourceTree = SOURCE_ROOT; };
+		099D407B91F159B554E6AC2B /* Unity.InputSystem4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem4.cpp; path = Classes/Native/Unity.InputSystem4.cpp; sourceTree = SOURCE_ROOT; };
+		0B0E46EBAB6B4FE15BDEF72B /* Il2CppGenericComDefinitions48.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions48.cpp; path = Classes/Native/Il2CppGenericComDefinitions48.cpp; sourceTree = SOURCE_ROOT; };
 		0B3A46FFAE3CED6B1747FADC /* mscorlib11.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib11.cpp; path = Classes/Native/mscorlib11.cpp; sourceTree = SOURCE_ROOT; };
 		0BF24AC391F3B7C5765FF33F /* Il2CppCCFieldValuesTable.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppCCFieldValuesTable.cpp; path = Classes/Native/Il2CppCCFieldValuesTable.cpp; sourceTree = SOURCE_ROOT; };
+		0C06489C96FEB3B269ADF3D1 /* Il2CppGenericComDefinitions40.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions40.cpp; path = Classes/Native/Il2CppGenericComDefinitions40.cpp; sourceTree = SOURCE_ROOT; };
 		0CA34701A3E7FB7F726270A6 /* Il2CppGenericComDefinitions35.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions35.cpp; path = Classes/Native/Il2CppGenericComDefinitions35.cpp; sourceTree = SOURCE_ROOT; };
 		0CA845F7916B84029CBAFDAE /* UnityEngine.TilemapModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.TilemapModule.cpp; path = Classes/Native/UnityEngine.TilemapModule.cpp; sourceTree = SOURCE_ROOT; };
 		0CE444C19DF1D200019640F4 /* Il2CppGenericComDefinitions5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions5.cpp; path = Classes/Native/Il2CppGenericComDefinitions5.cpp; sourceTree = SOURCE_ROOT; };
@@ -386,6 +431,7 @@
 		1455429589BE8D2A74F4B7B2 /* Assembly-CSharp_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = "Assembly-CSharp_CodeGen.c"; path = "Classes/Native/Assembly-CSharp_CodeGen.c"; sourceTree = SOURCE_ROOT; };
 		148648A186947D7CE0541FF9 /* Unity.XR.ARFoundation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.ARFoundation.cpp; path = Classes/Native/Unity.XR.ARFoundation.cpp; sourceTree = SOURCE_ROOT; };
 		16F84702916A34491A117A8E /* System_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = System_Attr.cpp; path = Classes/Native/System_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		16FE43E9975142265CA7B253 /* Generics22.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics22.cpp; path = Classes/Native/Generics22.cpp; sourceTree = SOURCE_ROOT; };
 		1859EA9A19214E7B0022C3D3 /* MetalHelper.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MetalHelper.mm; sourceTree = "<group>"; };
 		18C74760BEE4C4F7C898AC73 /* UnityEngine.PhysicsModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.PhysicsModule.cpp; path = Classes/Native/UnityEngine.PhysicsModule.cpp; sourceTree = SOURCE_ROOT; };
 		195440D9ADC7B96274625FE8 /* Generics13.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics13.cpp; path = Classes/Native/Generics13.cpp; sourceTree = SOURCE_ROOT; };
@@ -404,6 +450,7 @@
 		1FE2408A9FFC329B1E7DDF94 /* UnityEngine.ARModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.ARModule_Attr.cpp; path = Classes/Native/UnityEngine.ARModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		207E4B85B2825CB7E3B8E53D /* Unity.XR.ARKit.FaceTracking_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.ARKit.FaceTracking_Attr.cpp; path = Classes/Native/Unity.XR.ARKit.FaceTracking_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		2494424A9FDE4884026E5C1D /* UnityEngine.TextRenderingModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.TextRenderingModule_Attr.cpp; path = Classes/Native/UnityEngine.TextRenderingModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		251E406B990AC0A37DC22ED9 /* Unity.InputSystem7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem7.cpp; path = Classes/Native/Unity.InputSystem7.cpp; sourceTree = SOURCE_ROOT; };
 		25EE48B7BA3BCB8966F9C91D /* baselib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = baselib.a; path = Libraries/baselib.a; sourceTree = SOURCE_ROOT; };
 		26684438B65FDA291DC51AE1 /* Il2CppGenericComDefinitions21.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions21.cpp; path = Classes/Native/Il2CppGenericComDefinitions21.cpp; sourceTree = SOURCE_ROOT; };
 		276846C7877FD647FEDB4F8C /* Il2CppGenericComDefinitions8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions8.cpp; path = Classes/Native/Il2CppGenericComDefinitions8.cpp; sourceTree = SOURCE_ROOT; };
@@ -416,14 +463,19 @@
 		2B6345D39AED9D95015951C5 /* Il2CppGenericComDefinitions27.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions27.cpp; path = Classes/Native/Il2CppGenericComDefinitions27.cpp; sourceTree = SOURCE_ROOT; };
 		2B8F4464B6ED18AAFAA4801E /* Il2CppGenericComDefinitions25.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions25.cpp; path = Classes/Native/Il2CppGenericComDefinitions25.cpp; sourceTree = SOURCE_ROOT; };
 		2C12490B8B3072FED9D8BBC5 /* Il2CppGenericInstDefinitions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Il2CppGenericInstDefinitions.c; path = Classes/Native/Il2CppGenericInstDefinitions.c; sourceTree = SOURCE_ROOT; };
+		2DC749B088B3D994A6FF1112 /* UnityEngine.VRModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.VRModule_CodeGen.c; path = Classes/Native/UnityEngine.VRModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		2E014EADB9F811B99EF297A0 /* Generics15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics15.cpp; path = Classes/Native/Generics15.cpp; sourceTree = SOURCE_ROOT; };
 		2EE449B38CFD993B7DEC31CB /* UnityEngine.TilemapModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.TilemapModule_Attr.cpp; path = Classes/Native/UnityEngine.TilemapModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		2F1C40E7BA450465A1541866 /* Il2CppGenericComDefinitions10.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions10.cpp; path = Classes/Native/Il2CppGenericComDefinitions10.cpp; sourceTree = SOURCE_ROOT; };
+		2F9B44BF8024012189828CCD /* Unity.InputSystem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem.cpp; path = Classes/Native/Unity.InputSystem.cpp; sourceTree = SOURCE_ROOT; };
 		30E147D0BF1EE4B901F2A811 /* Il2CppCCTypeValuesTable.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppCCTypeValuesTable.cpp; path = Classes/Native/Il2CppCCTypeValuesTable.cpp; sourceTree = SOURCE_ROOT; };
 		319C4C3BAFB0DBA72D6CB465 /* UnityEngine.IMGUIModule1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.IMGUIModule1.cpp; path = Classes/Native/UnityEngine.IMGUIModule1.cpp; sourceTree = SOURCE_ROOT; };
 		322E4FCBA4FE0B164ADF1121 /* Il2CppGenericComDefinitions26.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions26.cpp; path = Classes/Native/Il2CppGenericComDefinitions26.cpp; sourceTree = SOURCE_ROOT; };
 		33234214B53321D08AD9119C /* UnityEngine.InputModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.InputModule.cpp; path = Classes/Native/UnityEngine.InputModule.cpp; sourceTree = SOURCE_ROOT; };
 		337A42E098EA5D119661775E /* UnityEngine.SpatialTracking_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.SpatialTracking_CodeGen.c; path = Classes/Native/UnityEngine.SpatialTracking_CodeGen.c; sourceTree = SOURCE_ROOT; };
+		33A84EF5B2EDE1792D39BEC4 /* Il2CppGenericComDefinitions44.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions44.cpp; path = Classes/Native/Il2CppGenericComDefinitions44.cpp; sourceTree = SOURCE_ROOT; };
+		33B04B79B6BE9CDA811885A6 /* Il2CppGenericComDefinitions39.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions39.cpp; path = Classes/Native/Il2CppGenericComDefinitions39.cpp; sourceTree = SOURCE_ROOT; };
+		361147FF842B8600E405AE13 /* Unity.InputSystem2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem2.cpp; path = Classes/Native/Unity.InputSystem2.cpp; sourceTree = SOURCE_ROOT; };
 		39944DD78B109EF3544220FB /* UnityEngine.SharedInternalsModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.SharedInternalsModule.cpp; path = Classes/Native/UnityEngine.SharedInternalsModule.cpp; sourceTree = SOURCE_ROOT; };
 		3A6943B28BD82D8A1A7238E2 /* LaunchScreen-iPad.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "LaunchScreen-iPad.storyboard"; sourceTree = SOURCE_ROOT; };
 		3B434410B020BCCDC094A547 /* Unity.XR.ARFoundation_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.ARFoundation_Attr.cpp; path = Classes/Native/Unity.XR.ARFoundation_Attr.cpp; sourceTree = SOURCE_ROOT; };
@@ -434,6 +486,7 @@
 		3C954343B15378B24444600A /* Il2CppGenericComDefinitions19.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions19.cpp; path = Classes/Native/Il2CppGenericComDefinitions19.cpp; sourceTree = SOURCE_ROOT; };
 		3D12419EA6BC3931BFCABE0A /* mscorlib15.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib15.cpp; path = Classes/Native/mscorlib15.cpp; sourceTree = SOURCE_ROOT; };
 		3F724FB783A633997B231EA2 /* UnityEngine.UI3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UI3.cpp; path = Classes/Native/UnityEngine.UI3.cpp; sourceTree = SOURCE_ROOT; };
+		3FBD4DA9AE0FF51760F028BC /* Generics16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics16.cpp; path = Classes/Native/Generics16.cpp; sourceTree = SOURCE_ROOT; };
 		3FF34948BB6AB792D20F5E69 /* UnityEngine.ParticleSystemModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.ParticleSystemModule.cpp; path = Classes/Native/UnityEngine.ParticleSystemModule.cpp; sourceTree = SOURCE_ROOT; };
 		400E448A976F7E50C7D4FA5D /* Generics2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics2.cpp; path = Classes/Native/Generics2.cpp; sourceTree = SOURCE_ROOT; };
 		41194677B45629A246F1232A /* Unity.XR.ARSubsystems_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.ARSubsystems_Attr.cpp; path = Classes/Native/Unity.XR.ARSubsystems_Attr.cpp; sourceTree = SOURCE_ROOT; };
@@ -443,7 +496,11 @@
 		43274C8CB94D5A4E5E0CF294 /* UnityEngine.XRModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.XRModule_CodeGen.c; path = Classes/Native/UnityEngine.XRModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		436C4744B23A6E0F80A3082B /* System.Core.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = System.Core.cpp; path = Classes/Native/System.Core.cpp; sourceTree = SOURCE_ROOT; };
 		43F14CF2BF64B0325C54C9B4 /* UnityEngine.UI2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UI2.cpp; path = Classes/Native/UnityEngine.UI2.cpp; sourceTree = SOURCE_ROOT; };
+		4520429CACA4BF5806421443 /* Unity.InputSystem3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem3.cpp; path = Classes/Native/Unity.InputSystem3.cpp; sourceTree = SOURCE_ROOT; };
 		46EC427C963A59C6ACC05829 /* Il2CppGenericComDefinitions2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions2.cpp; path = Classes/Native/Il2CppGenericComDefinitions2.cpp; sourceTree = SOURCE_ROOT; };
+		470646D084AA4109551CBCE3 /* UnityEngine.JSONSerializeModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.JSONSerializeModule_Attr.cpp; path = Classes/Native/UnityEngine.JSONSerializeModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		4A25485F9E1818FF14233074 /* Unity.InputSystem_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem_Attr.cpp; path = Classes/Native/Unity.InputSystem_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		4AA64785A7B4CC7D89AC05E8 /* Generics20.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics20.cpp; path = Classes/Native/Generics20.cpp; sourceTree = SOURCE_ROOT; };
 		4AFA43758FDC49122ADD9585 /* UnityEngine.ARModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.ARModule_CodeGen.c; path = Classes/Native/UnityEngine.ARModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		4DAD4BD4BC2632CB75356720 /* UnityEngine_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine_Attr.cpp; path = Classes/Native/UnityEngine_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		4E090A331F27884B0077B28D /* StoreReview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoreReview.m; sourceTree = "<group>"; };
@@ -473,15 +530,18 @@
 		57444317B6E46BF79299CFF6 /* Il2CppGenericComDefinitions34.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions34.cpp; path = Classes/Native/Il2CppGenericComDefinitions34.cpp; sourceTree = SOURCE_ROOT; };
 		579F4D74B4AADD162AF2F1FD /* UnresolvedVirtualCallStubs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnresolvedVirtualCallStubs.cpp; path = Classes/Native/UnresolvedVirtualCallStubs.cpp; sourceTree = SOURCE_ROOT; };
 		58464BEE83685C0DD0849B9C /* Il2CppGenericMethodTable.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Il2CppGenericMethodTable.c; path = Classes/Native/Il2CppGenericMethodTable.c; sourceTree = SOURCE_ROOT; };
+		5A2A48D79E85C318013E2030 /* Generics19.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics19.cpp; path = Classes/Native/Generics19.cpp; sourceTree = SOURCE_ROOT; };
 		5BAD78601F2B5A59006103DE /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		5BCB4236A0AF3E8BAE863A01 /* UnityEngine.UIElementsModule1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UIElementsModule1.cpp; path = Classes/Native/UnityEngine.UIElementsModule1.cpp; sourceTree = SOURCE_ROOT; };
 		5BD74AF3AED645A2BD034228 /* UnityEngine.InputLegacyModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.InputLegacyModule.cpp; path = Classes/Native/UnityEngine.InputLegacyModule.cpp; sourceTree = SOURCE_ROOT; };
 		5CA54EBB885B6CEAFB796F3D /* Il2CppGenericComDefinitions22.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions22.cpp; path = Classes/Native/Il2CppGenericComDefinitions22.cpp; sourceTree = SOURCE_ROOT; };
 		5D91466C9C80BA062AFAA8DA /* UnityEngine.UIElementsModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UIElementsModule_Attr.cpp; path = Classes/Native/UnityEngine.UIElementsModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		5E2841CA95803EABB1C25109 /* UnityEngine.UIModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UIModule_Attr.cpp; path = Classes/Native/UnityEngine.UIModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		5F1A4393B44D3D22F32DC8BE /* GenericMethods5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = GenericMethods5.cpp; path = Classes/Native/GenericMethods5.cpp; sourceTree = SOURCE_ROOT; };
 		5FF74957A51D6F6CBAD11DF9 /* UnityEngine.SpatialTracking_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.SpatialTracking_Attr.cpp; path = Classes/Native/UnityEngine.SpatialTracking_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		607C4BCFA558169D456847D0 /* Unity.XR.ARKit_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Unity.XR.ARKit_CodeGen.c; path = Classes/Native/Unity.XR.ARKit_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		6113410E836DD1C9FE6CDCB3 /* UnityEngine.CoreModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.CoreModule_CodeGen.c; path = Classes/Native/UnityEngine.CoreModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
+		624C4F48A5371FBF52218C76 /* Il2CppGenericComDefinitions46.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions46.cpp; path = Classes/Native/Il2CppGenericComDefinitions46.cpp; sourceTree = SOURCE_ROOT; };
 		625F45A3A3D2DB825C85BB02 /* Il2CppGenericComDefinitions32.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions32.cpp; path = Classes/Native/Il2CppGenericComDefinitions32.cpp; sourceTree = SOURCE_ROOT; };
 		62E64FAA919868C3B1BCF48B /* Il2CppCCalculateTypeValues.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppCCalculateTypeValues.cpp; path = Classes/Native/Il2CppCCalculateTypeValues.cpp; sourceTree = SOURCE_ROOT; };
 		6403443E97183CE577035E22 /* UnityEngine.TextRenderingModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.TextRenderingModule_CodeGen.c; path = Classes/Native/UnityEngine.TextRenderingModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
@@ -501,6 +561,7 @@
 		6ED047B8A4F1901271892CA4 /* System_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = System_CodeGen.c; path = Classes/Native/System_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		6F2D4964B9EEF1A146270C0B /* Generics14.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics14.cpp; path = Classes/Native/Generics14.cpp; sourceTree = SOURCE_ROOT; };
 		6FCE43DF84BB3B299AF2851E /* mscorlib4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib4.cpp; path = Classes/Native/mscorlib4.cpp; sourceTree = SOURCE_ROOT; };
+		71AF4C179ABA3E360E57C125 /* Il2CppGenericComDefinitions42.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions42.cpp; path = Classes/Native/Il2CppGenericComDefinitions42.cpp; sourceTree = SOURCE_ROOT; };
 		71CC4400AF12E0DEBFC18CF1 /* mscorlib14.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib14.cpp; path = Classes/Native/mscorlib14.cpp; sourceTree = SOURCE_ROOT; };
 		726B4736BE6ADBB2CB64D99C /* UnityEngine.CoreModule1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.CoreModule1.cpp; path = Classes/Native/UnityEngine.CoreModule1.cpp; sourceTree = SOURCE_ROOT; };
 		737F4036B0B3F847CCD1656A /* mscorlib17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib17.cpp; path = Classes/Native/mscorlib17.cpp; sourceTree = SOURCE_ROOT; };
@@ -626,28 +687,34 @@
 		9D25ABA0213FB47800354C27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DA3B0432174CB96001678C7 /* main.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = main.mm; sourceTree = "<group>"; };
 		9EBE4D54BF273FA939FAF1BD /* UnityEngine.Physics2DModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.Physics2DModule.cpp; path = Classes/Native/UnityEngine.Physics2DModule.cpp; sourceTree = SOURCE_ROOT; };
+		9ED74FE3A15160E706D69F86 /* Unity.InputSystem1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem1.cpp; path = Classes/Native/Unity.InputSystem1.cpp; sourceTree = SOURCE_ROOT; };
 		9FD04459A613C97753E37CF8 /* UnityEngine.TerrainModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.TerrainModule_CodeGen.c; path = Classes/Native/UnityEngine.TerrainModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		A1644EF7A8B725EF65935A01 /* UnityEngine.CoreModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.CoreModule_Attr.cpp; path = Classes/Native/UnityEngine.CoreModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		A1EE447B8B369849A5B84967 /* Il2CppGenericComDefinitions11.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions11.cpp; path = Classes/Native/Il2CppGenericComDefinitions11.cpp; sourceTree = SOURCE_ROOT; };
 		A20E4C2090B8A1DED4E9C6E7 /* Unity.XR.Management.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.Management.cpp; path = Classes/Native/Unity.XR.Management.cpp; sourceTree = SOURCE_ROOT; };
 		A2164E71BC435C659A74A734 /* UnityEngine.GameCenterModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.GameCenterModule_CodeGen.c; path = Classes/Native/UnityEngine.GameCenterModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		A4E24CE48BCAB07390A69F98 /* IUnityInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = IUnityInterface.h; path = Classes/Unity/IUnityInterface.h; sourceTree = SOURCE_ROOT; };
+		A56A437594F20A0BA61899B1 /* Unity.InputSystem_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Unity.InputSystem_CodeGen.c; path = Classes/Native/Unity.InputSystem_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		A59E4375A31BF54F7966ABC8 /* Il2CppGenericComDefinitions3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions3.cpp; path = Classes/Native/Il2CppGenericComDefinitions3.cpp; sourceTree = SOURCE_ROOT; };
 		A64B4EBA8BA94444A705F4D1 /* UnityEngine.TerrainModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.TerrainModule_Attr.cpp; path = Classes/Native/UnityEngine.TerrainModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		A756456582E4E226976C0081 /* UnityEngine.AudioModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.AudioModule_CodeGen.c; path = Classes/Native/UnityEngine.AudioModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		A88A49E7918E0B712B27822D /* Il2CppGenericComDefinitions12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions12.cpp; path = Classes/Native/Il2CppGenericComDefinitions12.cpp; sourceTree = SOURCE_ROOT; };
 		AA31BF961B55660D0013FB1B /* Data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Data; sourceTree = "<group>"; };
 		AA5D99861AFAD3C800B27605 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		AA5F4E6BA24D0ED5E0AD6D8C /* Il2CppGenericComDefinitions38.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions38.cpp; path = Classes/Native/Il2CppGenericComDefinitions38.cpp; sourceTree = SOURCE_ROOT; };
 		AAC3E38B1A68945900F6174A /* RegisterFeatures.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RegisterFeatures.cpp; sourceTree = "<group>"; };
 		AAC3E38C1A68945900F6174A /* RegisterFeatures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterFeatures.h; sourceTree = "<group>"; };
 		AAFE69D019F187C200638316 /* UnityViewControllerListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UnityViewControllerListener.h; sourceTree = "<group>"; };
 		AAFE69D119F187C200638316 /* UnityViewControllerListener.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = UnityViewControllerListener.mm; sourceTree = "<group>"; };
 		AB4647B0B9130CE8A4C9864F /* Il2CppGenericComDefinitions29.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions29.cpp; path = Classes/Native/Il2CppGenericComDefinitions29.cpp; sourceTree = SOURCE_ROOT; };
 		AB714FAEBA5F6A2331B2ABCA /* UnityEngine.IMGUIModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.IMGUIModule_CodeGen.c; path = Classes/Native/UnityEngine.IMGUIModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
+		AC474D559B7C24385DF16AE5 /* GenericMethods6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = GenericMethods6.cpp; path = Classes/Native/GenericMethods6.cpp; sourceTree = SOURCE_ROOT; };
 		ACFC4F7B8AA74FA14EF3CFFA /* Il2CppGenericComDefinitions16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions16.cpp; path = Classes/Native/Il2CppGenericComDefinitions16.cpp; sourceTree = SOURCE_ROOT; };
+		AD2947468786292150904776 /* Unity.InputSystem5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem5.cpp; path = Classes/Native/Unity.InputSystem5.cpp; sourceTree = SOURCE_ROOT; };
 		AE7E4C24B3BD7A8E360F092C /* LaunchScreen-iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LaunchScreen-iPad.png"; sourceTree = SOURCE_ROOT; };
 		AE9B40369A27E6D14F26EA51 /* mscorlib2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib2.cpp; path = Classes/Native/mscorlib2.cpp; sourceTree = SOURCE_ROOT; };
 		AEA84708B75F57929D0EA6E9 /* UnityEngine.TextRenderingModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.TextRenderingModule.cpp; path = Classes/Native/UnityEngine.TextRenderingModule.cpp; sourceTree = SOURCE_ROOT; };
+		AFA8465A99C2BB122A45B83C /* Generics18.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics18.cpp; path = Classes/Native/Generics18.cpp; sourceTree = SOURCE_ROOT; };
 		AFD2432E8D7CB349488590F3 /* Unity.XR.Management_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.XR.Management_Attr.cpp; path = Classes/Native/Unity.XR.Management_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		AFFB4CBF857DB5C443B183F2 /* System.Configuration_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = System.Configuration_CodeGen.c; path = Classes/Native/System.Configuration_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		B0544661AA073D310F63DF47 /* UnityEngine.XRModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.XRModule_Attr.cpp; path = Classes/Native/UnityEngine.XRModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
@@ -661,13 +728,22 @@
 		B7CC4DB4A6E4C6EF2CD970CE /* UnityEngine.UI.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.UI.cpp; path = Classes/Native/UnityEngine.UI.cpp; sourceTree = SOURCE_ROOT; };
 		B95C404287AEFCDEBF934890 /* System.Core_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = System.Core_CodeGen.c; path = Classes/Native/System.Core_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		B9C84E13A516091F7BAE1EBE /* UnityEngine.Physics2DModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.Physics2DModule_Attr.cpp; path = Classes/Native/UnityEngine.Physics2DModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		BF684781903F5DF846D5C1EA /* UnityEngine.VRModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.VRModule.cpp; path = Classes/Native/UnityEngine.VRModule.cpp; sourceTree = SOURCE_ROOT; };
 		BFAF4F7EA44EEE8E18B2A5F4 /* UnityEngine.GridModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.GridModule.cpp; path = Classes/Native/UnityEngine.GridModule.cpp; sourceTree = SOURCE_ROOT; };
+		C1714638AD32C756B15A1E55 /* GenericMethods4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = GenericMethods4.cpp; path = Classes/Native/GenericMethods4.cpp; sourceTree = SOURCE_ROOT; };
 		C1B34E07BC06AF7EA2338CFC /* UnityEngine.InputModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.InputModule_CodeGen.c; path = Classes/Native/UnityEngine.InputModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
+		C36F4251A04648EC1298AFD7 /* Generics21.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics21.cpp; path = Classes/Native/Generics21.cpp; sourceTree = SOURCE_ROOT; };
 		C370475CA1E5794320B46EC5 /* UnityEngine.IMGUIModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.IMGUIModule_Attr.cpp; path = Classes/Native/UnityEngine.IMGUIModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		C4DC4E3BB99EEC4988A12447 /* Il2CppGenericComDefinitions47.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions47.cpp; path = Classes/Native/Il2CppGenericComDefinitions47.cpp; sourceTree = SOURCE_ROOT; };
 		C4EB46B5A9CC26DE5E8830BA /* Il2CppReversePInvokeWrapperTable.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppReversePInvokeWrapperTable.cpp; path = Classes/Native/Il2CppReversePInvokeWrapperTable.cpp; sourceTree = SOURCE_ROOT; };
 		C58D4F379816CF690D10CCB8 /* mscorlib16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib16.cpp; path = Classes/Native/mscorlib16.cpp; sourceTree = SOURCE_ROOT; };
+		C5A149C6BA2C47726CD3AA09 /* UnityEngine.JSONSerializeModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.JSONSerializeModule.cpp; path = Classes/Native/UnityEngine.JSONSerializeModule.cpp; sourceTree = SOURCE_ROOT; };
+		C8C14CC3B6FE7F17494A1B72 /* Unity.InputSystem6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Unity.InputSystem6.cpp; path = Classes/Native/Unity.InputSystem6.cpp; sourceTree = SOURCE_ROOT; };
+		C9EA4B7693565F175D4EED30 /* Il2CppGenericComDefinitions45.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions45.cpp; path = Classes/Native/Il2CppGenericComDefinitions45.cpp; sourceTree = SOURCE_ROOT; };
 		CB0045078A9082BEEC9654DE /* UnityEngine.SpriteShapeModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.SpriteShapeModule_CodeGen.c; path = Classes/Native/UnityEngine.SpriteShapeModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		CBBB4ABAA345F4DD090F6883 /* libil2cpp.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libil2cpp.a; path = Libraries/libil2cpp.a; sourceTree = SOURCE_ROOT; };
+		CCEA4AF0B7FF1DF844AEF694 /* Il2CppGenericComDefinitions43.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions43.cpp; path = Classes/Native/Il2CppGenericComDefinitions43.cpp; sourceTree = SOURCE_ROOT; };
+		CD194D28A0ADA0DF3FED270C /* Generics17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics17.cpp; path = Classes/Native/Generics17.cpp; sourceTree = SOURCE_ROOT; };
 		CDC64192BB451A9CB091627B /* UnityEngine.GridModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.GridModule_CodeGen.c; path = Classes/Native/UnityEngine.GridModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		CE9646FC9D8E15A427927143 /* Il2CppGenericComDefinitions14.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions14.cpp; path = Classes/Native/Il2CppGenericComDefinitions14.cpp; sourceTree = SOURCE_ROOT; };
 		D0BF4E9FB0BFCC94A3B4BF28 /* UnityARKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = UnityARKit.m; path = Libraries/com.unity.xr.arkit/Runtime/iOS/UnityARKit.m; sourceTree = SOURCE_ROOT; };
@@ -679,9 +755,11 @@
 		D8924484B2C7BCF3161FACE9 /* UnityEngine.GameCenterModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.GameCenterModule.cpp; path = Classes/Native/UnityEngine.GameCenterModule.cpp; sourceTree = SOURCE_ROOT; };
 		D8A1C72A0E8063A1000160D3 /* libiPhone-lib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libiPhone-lib.a"; path = "Libraries/libiPhone-lib.a"; sourceTree = SOURCE_ROOT; };
 		D96244C3B5224279EDDE1C47 /* Il2CppTypeDefinitions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Il2CppTypeDefinitions.c; path = Classes/Native/Il2CppTypeDefinitions.c; sourceTree = SOURCE_ROOT; };
+		D9734595ACE43397F6D3AF8D /* Il2CppGenericComDefinitions37.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions37.cpp; path = Classes/Native/Il2CppGenericComDefinitions37.cpp; sourceTree = SOURCE_ROOT; };
 		DA0A41E69CF9D595F75843DF /* Generics7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics7.cpp; path = Classes/Native/Generics7.cpp; sourceTree = SOURCE_ROOT; };
 		DDAD44D18965DF7C4F774AE2 /* UnityEngine.AnimationModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.AnimationModule_CodeGen.c; path = Classes/Native/UnityEngine.AnimationModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		DE1845B2905AFB224D201AD6 /* mscorlib7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib7.cpp; path = Classes/Native/mscorlib7.cpp; sourceTree = SOURCE_ROOT; };
+		DE35487BA4A2957B94F0AE7A /* UnityEngine.JSONSerializeModule_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = UnityEngine.JSONSerializeModule_CodeGen.c; path = Classes/Native/UnityEngine.JSONSerializeModule_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		E1044F0D91CC10632961C943 /* ARReferenceObjects.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = ARReferenceObjects.xcassets; path = "Unity-iPhone/ARReferenceObjects.xcassets"; sourceTree = SOURCE_ROOT; };
 		E5534D22A93405E21E0A0FA3 /* Unity.XR.ARSubsystems_CodeGen.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = Unity.XR.ARSubsystems_CodeGen.c; path = Classes/Native/Unity.XR.ARSubsystems_CodeGen.c; sourceTree = SOURCE_ROOT; };
 		E5BE41A18AA32A0A9E376DB5 /* Generics1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Generics1.cpp; path = Classes/Native/Generics1.cpp; sourceTree = SOURCE_ROOT; };
@@ -689,7 +767,9 @@
 		E75B417983D5957294AF052D /* Il2CppCodeRegistration.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppCodeRegistration.cpp; path = Classes/Native/Il2CppCodeRegistration.cpp; sourceTree = SOURCE_ROOT; };
 		E7F34611B68F55496817F594 /* Il2CppGenericComDefinitions1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions1.cpp; path = Classes/Native/Il2CppGenericComDefinitions1.cpp; sourceTree = SOURCE_ROOT; };
 		E876453E86D7F05FD8315868 /* UnityEngine.IMGUIModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.IMGUIModule.cpp; path = Classes/Native/UnityEngine.IMGUIModule.cpp; sourceTree = SOURCE_ROOT; };
+		E8ED4449BD96E6E912F3EA61 /* UnityEngine.VRModule_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.VRModule_Attr.cpp; path = Classes/Native/UnityEngine.VRModule_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		EC92423E914DBD7AF562317A /* mscorlib_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mscorlib_Attr.cpp; path = Classes/Native/mscorlib_Attr.cpp; sourceTree = SOURCE_ROOT; };
+		EDE84E0A98349393912589E0 /* Il2CppGenericComDefinitions49.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions49.cpp; path = Classes/Native/Il2CppGenericComDefinitions49.cpp; sourceTree = SOURCE_ROOT; };
 		EEE645ACBE23D7A7550C0154 /* UnityEngine.XRModule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = UnityEngine.XRModule.cpp; path = Classes/Native/UnityEngine.XRModule.cpp; sourceTree = SOURCE_ROOT; };
 		F0AF4B4A8BC19D9E94FE296B /* System.Configuration_Attr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = System.Configuration_Attr.cpp; path = Classes/Native/System.Configuration_Attr.cpp; sourceTree = SOURCE_ROOT; };
 		F1244C708D385805D8843B32 /* Il2CppGenericComDefinitions17.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Il2CppGenericComDefinitions17.cpp; path = Classes/Native/Il2CppGenericComDefinitions17.cpp; sourceTree = SOURCE_ROOT; };
@@ -1071,6 +1151,46 @@
 				53A04BC2924926AE37877697 /* UnityEngine.UIModule_CodeGen.c */,
 				036E47FCBBB00BA6EEBBBC98 /* UnityEngine.UI_Attr.cpp */,
 				D5F146F9AA673C549F9F44A4 /* UnityEngine.UI_CodeGen.c */,
+				C1714638AD32C756B15A1E55 /* GenericMethods4.cpp */,
+				5F1A4393B44D3D22F32DC8BE /* GenericMethods5.cpp */,
+				AC474D559B7C24385DF16AE5 /* GenericMethods6.cpp */,
+				3FBD4DA9AE0FF51760F028BC /* Generics16.cpp */,
+				CD194D28A0ADA0DF3FED270C /* Generics17.cpp */,
+				AFA8465A99C2BB122A45B83C /* Generics18.cpp */,
+				5A2A48D79E85C318013E2030 /* Generics19.cpp */,
+				4AA64785A7B4CC7D89AC05E8 /* Generics20.cpp */,
+				C36F4251A04648EC1298AFD7 /* Generics21.cpp */,
+				16FE43E9975142265CA7B253 /* Generics22.cpp */,
+				06394C1489D14DE93B39BA1A /* Il2CppCCalculateFieldValues1.cpp */,
+				D9734595ACE43397F6D3AF8D /* Il2CppGenericComDefinitions37.cpp */,
+				AA5F4E6BA24D0ED5E0AD6D8C /* Il2CppGenericComDefinitions38.cpp */,
+				33B04B79B6BE9CDA811885A6 /* Il2CppGenericComDefinitions39.cpp */,
+				0C06489C96FEB3B269ADF3D1 /* Il2CppGenericComDefinitions40.cpp */,
+				0008495AA968C56F3CB7FC75 /* Il2CppGenericComDefinitions41.cpp */,
+				71AF4C179ABA3E360E57C125 /* Il2CppGenericComDefinitions42.cpp */,
+				CCEA4AF0B7FF1DF844AEF694 /* Il2CppGenericComDefinitions43.cpp */,
+				33A84EF5B2EDE1792D39BEC4 /* Il2CppGenericComDefinitions44.cpp */,
+				C9EA4B7693565F175D4EED30 /* Il2CppGenericComDefinitions45.cpp */,
+				624C4F48A5371FBF52218C76 /* Il2CppGenericComDefinitions46.cpp */,
+				C4DC4E3BB99EEC4988A12447 /* Il2CppGenericComDefinitions47.cpp */,
+				0B0E46EBAB6B4FE15BDEF72B /* Il2CppGenericComDefinitions48.cpp */,
+				EDE84E0A98349393912589E0 /* Il2CppGenericComDefinitions49.cpp */,
+				2F9B44BF8024012189828CCD /* Unity.InputSystem.cpp */,
+				9ED74FE3A15160E706D69F86 /* Unity.InputSystem1.cpp */,
+				361147FF842B8600E405AE13 /* Unity.InputSystem2.cpp */,
+				4520429CACA4BF5806421443 /* Unity.InputSystem3.cpp */,
+				099D407B91F159B554E6AC2B /* Unity.InputSystem4.cpp */,
+				AD2947468786292150904776 /* Unity.InputSystem5.cpp */,
+				C8C14CC3B6FE7F17494A1B72 /* Unity.InputSystem6.cpp */,
+				251E406B990AC0A37DC22ED9 /* Unity.InputSystem7.cpp */,
+				4A25485F9E1818FF14233074 /* Unity.InputSystem_Attr.cpp */,
+				A56A437594F20A0BA61899B1 /* Unity.InputSystem_CodeGen.c */,
+				C5A149C6BA2C47726CD3AA09 /* UnityEngine.JSONSerializeModule.cpp */,
+				470646D084AA4109551CBCE3 /* UnityEngine.JSONSerializeModule_Attr.cpp */,
+				DE35487BA4A2957B94F0AE7A /* UnityEngine.JSONSerializeModule_CodeGen.c */,
+				BF684781903F5DF846D5C1EA /* UnityEngine.VRModule.cpp */,
+				E8ED4449BD96E6E912F3EA61 /* UnityEngine.VRModule_Attr.cpp */,
+				2DC749B088B3D994A6FF1112 /* UnityEngine.VRModule_CodeGen.c */,
 			);
 			path = Native;
 			sourceTree = "<group>";
@@ -1697,6 +1817,46 @@
 				995B4BE9A710EBE503F7BEFC /* UnityEngine.UIModule_CodeGen.c in Sources */,
 				43E4432889346CAFE26731A8 /* UnityEngine.UI_Attr.cpp in Sources */,
 				C82044CFA41A3014CE23A9FC /* UnityEngine.UI_CodeGen.c in Sources */,
+				D5824F93B98D1BCC476DDFAE /* GenericMethods4.cpp in Sources */,
+				4F974BF1A2844F4B9BD35945 /* GenericMethods5.cpp in Sources */,
+				3DAF47F89613BF4045E00E18 /* GenericMethods6.cpp in Sources */,
+				1EB94B61A31E2F7CAD0D5B62 /* Generics16.cpp in Sources */,
+				0C544B0D9EBD3E3577FEBBF4 /* Generics17.cpp in Sources */,
+				F9C449429C1114E37C96A284 /* Generics18.cpp in Sources */,
+				0FA7470FB0658DA0235F171B /* Generics19.cpp in Sources */,
+				17E44863BAFF1313F735F1A6 /* Generics20.cpp in Sources */,
+				EF0A454B875285DE52D6919A /* Generics21.cpp in Sources */,
+				629640C6AD99DB00B68C4440 /* Generics22.cpp in Sources */,
+				DB224CC5AE5BC249D6BB2BDA /* Il2CppCCalculateFieldValues1.cpp in Sources */,
+				8C9A4C90A76CE68F142EE959 /* Il2CppGenericComDefinitions37.cpp in Sources */,
+				C32A49EE91150C174E30A2C7 /* Il2CppGenericComDefinitions38.cpp in Sources */,
+				03AD49A19274BD53A89696D7 /* Il2CppGenericComDefinitions39.cpp in Sources */,
+				E9F449969A20C9E32BBAF712 /* Il2CppGenericComDefinitions40.cpp in Sources */,
+				591341DEAC245341E432A168 /* Il2CppGenericComDefinitions41.cpp in Sources */,
+				0F894C5480C8140BB96A72CE /* Il2CppGenericComDefinitions42.cpp in Sources */,
+				56A44EB3B1B3231F1020C7D7 /* Il2CppGenericComDefinitions43.cpp in Sources */,
+				8CCF49BBB650A80E088DF60E /* Il2CppGenericComDefinitions44.cpp in Sources */,
+				74D741D5819A1FF673CDBF12 /* Il2CppGenericComDefinitions45.cpp in Sources */,
+				866D47DAB0D90367ECA46A54 /* Il2CppGenericComDefinitions46.cpp in Sources */,
+				259141FDA6F3B7872450F08B /* Il2CppGenericComDefinitions47.cpp in Sources */,
+				55FD4863B66D355C49CFA0EE /* Il2CppGenericComDefinitions48.cpp in Sources */,
+				A0864C7085ED5B1B031D5C8E /* Il2CppGenericComDefinitions49.cpp in Sources */,
+				61804028AF148E730AD8AB0E /* Unity.InputSystem.cpp in Sources */,
+				70F04686A9568FF2C794B780 /* Unity.InputSystem1.cpp in Sources */,
+				9BEC4657A3BA85B19B9D824D /* Unity.InputSystem2.cpp in Sources */,
+				7E5346EB952721A72104FCC2 /* Unity.InputSystem3.cpp in Sources */,
+				28024740AD31D798594FB2D5 /* Unity.InputSystem4.cpp in Sources */,
+				9333433E8105DB9B67604A63 /* Unity.InputSystem5.cpp in Sources */,
+				D604480380F9EC3B6CA731FD /* Unity.InputSystem6.cpp in Sources */,
+				BB2A4F6F95C622229C7525C4 /* Unity.InputSystem7.cpp in Sources */,
+				86C74940BA2B23238A7C7BB1 /* Unity.InputSystem_Attr.cpp in Sources */,
+				290E431BBE42684A62566A53 /* Unity.InputSystem_CodeGen.c in Sources */,
+				A674420481A73A17154AB55F /* UnityEngine.JSONSerializeModule.cpp in Sources */,
+				AF2348968665579C72719F08 /* UnityEngine.JSONSerializeModule_Attr.cpp in Sources */,
+				9F344982904F9AE38CCF9EBE /* UnityEngine.JSONSerializeModule_CodeGen.c in Sources */,
+				61874030BE48E2DEF480D9B9 /* UnityEngine.VRModule.cpp in Sources */,
+				709245E69E6D0368354A0509 /* UnityEngine.VRModule_Attr.cpp in Sources */,
+				858A48C1961D0FC5219AC1B6 /* UnityEngine.VRModule_CodeGen.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

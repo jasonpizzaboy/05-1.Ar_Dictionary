@@ -114,6 +114,8 @@ struct Regex_t90F443D398F44965EA241A652ED75DF5BA072A1F;
 struct Rex_t5235DAE89D63A93AA785840E1AEE711351E9CFEE;
 // UnityEngine.Rigidbody
 struct Rigidbody_t101F2E2F9F16E765A77429B2DE4527D2047A887A;
+// Rotation
+struct Rotation_t494A089B49580F1EC9172DD688C6EC94B1E4EEEE;
 // SceneExit
 struct SceneExit_t2E610FF531401D807178530E70D8445BEF467DD6;
 // SceneMover
@@ -4095,6 +4097,24 @@ public:
 };
 
 
+// Rotation
+struct Rotation_t494A089B49580F1EC9172DD688C6EC94B1E4EEEE  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
+{
+public:
+	// System.Single Rotation::rotationSpeed
+	float ___rotationSpeed_4;
+
+public:
+	inline static int32_t get_offset_of_rotationSpeed_4() { return static_cast<int32_t>(offsetof(Rotation_t494A089B49580F1EC9172DD688C6EC94B1E4EEEE, ___rotationSpeed_4)); }
+	inline float get_rotationSpeed_4() const { return ___rotationSpeed_4; }
+	inline float* get_address_of_rotationSpeed_4() { return &___rotationSpeed_4; }
+	inline void set_rotationSpeed_4(float value)
+	{
+		___rotationSpeed_4 = value;
+	}
+};
+
+
 // SceneExit
 struct SceneExit_t2E610FF531401D807178530E70D8445BEF467DD6  : public MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A
 {
@@ -4129,8 +4149,6 @@ public:
 	List_1_t2922678FB1CE71E23AD351AE6FAEC20D68F8984F * ____trackedImg_8;
 	// System.Collections.Generic.List`1<System.Single> TrackImage::_tractedTimer
 	List_1_t6726F9309570A0BDC5D42E10777F3E2931C487AA * ____tractedTimer_9;
-	// System.Single TrackImage::rotationSpeed
-	float ___rotationSpeed_10;
 
 public:
 	inline static int32_t get_offset_of__timer_4() { return static_cast<int32_t>(offsetof(TrackImage_t8BFEFC7EBB74A63B708106CA7D68AC9B80F29D64, ____timer_4)); }
@@ -4184,14 +4202,6 @@ public:
 	{
 		____tractedTimer_9 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&____tractedTimer_9), (void*)value);
-	}
-
-	inline static int32_t get_offset_of_rotationSpeed_10() { return static_cast<int32_t>(offsetof(TrackImage_t8BFEFC7EBB74A63B708106CA7D68AC9B80F29D64, ___rotationSpeed_10)); }
-	inline float get_rotationSpeed_10() const { return ___rotationSpeed_10; }
-	inline float* get_address_of_rotationSpeed_10() { return &___rotationSpeed_10; }
-	inline void set_rotationSpeed_10(float value)
-	{
-		___rotationSpeed_10 = value;
 	}
 };
 
@@ -5016,10 +5026,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Quaternion_t6D28618CF65156D4A0AD747370DDFD0C5
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Creature_GetGroundPos_m98CB8E949DE95BAEC6FFD365117CB5CDD9239A99 (Creature_tEB2902E4D73C16AED026B45902A6C6706751ACBA * __this, int32_t ___ikType0, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___RLeg11, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___RLeg22, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___RLeg33, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___LLeg14, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___LLeg25, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___LLeg36, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___RArm17, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___RArm28, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___RArm39, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___LArm110, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___LArm211, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___LArm312, float ___FeetOffset13, const RuntimeMethod* method);
 // System.Void Creature::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Creature__ctor_mAEAF196618FFB226D3BF906E15351042278AFF21 (Creature_tEB2902E4D73C16AED026B45902A6C6706751ACBA * __this, const RuntimeMethod* method);
-// System.Void UnityEngine.Application::Quit()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Application_Quit_m8D720E5092786C2EE32310D85FE61C253D3B1F2A (const RuntimeMethod* method);
+// System.Single UnityEngine.Time::get_deltaTime()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Time_get_deltaTime_mCC15F147DA67F38C74CE408FB5D7FF4A87DA2290 (const RuntimeMethod* method);
+// System.Void UnityEngine.Transform::Rotate(System.Single,System.Single,System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_Rotate_mA3AE6D55AA9CC88A8F03C2B0B7CB3DB45ABA6A8E (Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * __this, float ___xAngle0, float ___yAngle1, float ___zAngle2, const RuntimeMethod* method);
 // System.Void UnityEngine.MonoBehaviour::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour__ctor_mC0995D847F6A95B1A553652636C38A2AA8B13BED (MonoBehaviour_t37A501200D970A8257124B0EAE00A0FF3DDC354A * __this, const RuntimeMethod* method);
+// System.Void UnityEngine.Application::Quit()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Application_Quit_m8D720E5092786C2EE32310D85FE61C253D3B1F2A (const RuntimeMethod* method);
 // System.Void UnityEngine.SceneManagement.SceneManager::LoadScene(System.Int32)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneManager_LoadScene_m5550E6368A6D0E37DACEDA3C5E4BA331836BC3C5 (int32_t ___sceneBuildIndex0, const RuntimeMethod* method);
 // System.Collections.Generic.List`1/Enumerator<!0> System.Collections.Generic.List`1<UnityEngine.GameObject>::GetEnumerator()
@@ -5090,8 +5104,6 @@ inline void List_1_Add_m8DD9344B8E668ED112BBC6B8D5298150DA835968 (List_1_t292267
 {
 	((  void (*) (List_1_t2922678FB1CE71E23AD351AE6FAEC20D68F8984F *, ARTrackedImage_t32B829A81320BCDF3A743DCD4DC4383BA266C5B7 *, const RuntimeMethod*))List_1_Add_mF15250BF947CA27BE9A23C08BAC6DB6F180B0EDD_gshared)(__this, ___item0, method);
 }
-// System.Single UnityEngine.Time::get_deltaTime()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Time_get_deltaTime_mCC15F147DA67F38C74CE408FB5D7FF4A87DA2290 (const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<System.Single>::set_Item(System.Int32,!0)
 inline void List_1_set_Item_m3298AB7B7159F9729C2606D413F215F0EA7C2418 (List_1_t6726F9309570A0BDC5D42E10777F3E2931C487AA * __this, int32_t ___index0, float ___value1, const RuntimeMethod* method)
 {
@@ -5161,8 +5173,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TrackImage_UpdateImage_mB723F71A219A39D5
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * GameObject_get_transform_m16A80BB92B6C8C5AB696E447014D45EDF1E4DE34 (GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.Transform::set_position(UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_position_mB169E52D57EEAC1E3F22C5395968714E4F00AC91 (Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * __this, Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  ___value0, const RuntimeMethod* method);
-// System.Void UnityEngine.Transform::Rotate(System.Single,System.Single,System.Single)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_Rotate_mA3AE6D55AA9CC88A8F03C2B0B7CB3DB45ABA6A8E (Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * __this, float ___xAngle0, float ___yAngle1, float ___zAngle2, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<UnityEngine.GameObject>::.ctor()
 inline void List_1__ctor_m859B0EE8491FDDEB1A3F7115D334B863E025BBC8 (List_1_t6D0A10F47F3440798295D2FFFC6D016477AF38E5 * __this, const RuntimeMethod* method)
 {
@@ -7257,6 +7267,40 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rex__ctor_mD1CB26649875CA009D47EAA576B77
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+// System.Void Rotation::FixedUpdate()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rotation_FixedUpdate_m43CDC81683CDA94FABC8416CF7AC5A5A453A818F (Rotation_t494A089B49580F1EC9172DD688C6EC94B1E4EEEE * __this, const RuntimeMethod* method)
+{
+	{
+		// transform.Rotate( 0f,rotationSpeed * Time.deltaTime, 0f);
+		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_0;
+		L_0 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
+		float L_1 = __this->get_rotationSpeed_4();
+		float L_2;
+		L_2 = Time_get_deltaTime_mCC15F147DA67F38C74CE408FB5D7FF4A87DA2290(/*hidden argument*/NULL);
+		NullCheck(L_0);
+		Transform_Rotate_mA3AE6D55AA9CC88A8F03C2B0B7CB3DB45ABA6A8E(L_0, (0.0f), ((float)il2cpp_codegen_multiply((float)L_1, (float)L_2)), (0.0f), /*hidden argument*/NULL);
+		// }
+		return;
+	}
+}
+// System.Void Rotation::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rotation__ctor_mE37308CA0B03685698CC3A3EFD8EF606585B6297 (Rotation_t494A089B49580F1EC9172DD688C6EC94B1E4EEEE * __this, const RuntimeMethod* method)
+{
+	{
+		// public float rotationSpeed = 30f;
+		__this->set_rotationSpeed_4((30.0f));
+		MonoBehaviour__ctor_mC0995D847F6A95B1A553652636C38A2AA8B13BED(__this, /*hidden argument*/NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
 // System.Void SceneExit::ExitScene()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SceneExit_ExitScene_mCC664843E50A1853600DCB4BC3B79D6E26683395 (SceneExit_t2E610FF531401D807178530E70D8445BEF467DD6 * __this, const RuntimeMethod* method)
 {
@@ -7965,22 +8009,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TrackImage_UpdateImage_mB723F71A219A39D5
 		return;
 	}
 }
-// System.Void TrackImage::FixedUpdate()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TrackImage_FixedUpdate_m7AFEF9E8FB3F0196D38C16D80A6574786DA7BBBD (TrackImage_t8BFEFC7EBB74A63B708106CA7D68AC9B80F29D64 * __this, const RuntimeMethod* method)
-{
-	{
-		// transform.Rotate(0f, -rotationSpeed * Time.deltaTime, 0f);
-		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_0;
-		L_0 = Component_get_transform_mE8496EBC45BEB1BADB5F314960F1DF1C952FA11F(__this, /*hidden argument*/NULL);
-		float L_1 = __this->get_rotationSpeed_10();
-		float L_2;
-		L_2 = Time_get_deltaTime_mCC15F147DA67F38C74CE408FB5D7FF4A87DA2290(/*hidden argument*/NULL);
-		NullCheck(L_0);
-		Transform_Rotate_mA3AE6D55AA9CC88A8F03C2B0B7CB3DB45ABA6A8E(L_0, (0.0f), ((float)il2cpp_codegen_multiply((float)((-L_1)), (float)L_2)), (0.0f), /*hidden argument*/NULL);
-		// }
-		return;
-	}
-}
 // System.Void TrackImage::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TrackImage__ctor_m936AFE56F0CB7AEDDB9BD513FCFD4DDB6F9B72F5 (TrackImage_t8BFEFC7EBB74A63B708106CA7D68AC9B80F29D64 * __this, const RuntimeMethod* method)
 {
@@ -8014,8 +8042,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void TrackImage__ctor_m936AFE56F0CB7AEDDB9BD5
 		List_1_t6726F9309570A0BDC5D42E10777F3E2931C487AA * L_3 = (List_1_t6726F9309570A0BDC5D42E10777F3E2931C487AA *)il2cpp_codegen_object_new(List_1_t6726F9309570A0BDC5D42E10777F3E2931C487AA_il2cpp_TypeInfo_var);
 		List_1__ctor_m893CC03BA01C82718A6ED996182C83EA91A0E74C(L_3, /*hidden argument*/List_1__ctor_m893CC03BA01C82718A6ED996182C83EA91A0E74C_RuntimeMethod_var);
 		__this->set__tractedTimer_9(L_3);
-		// public float rotationSpeed = 50f;
-		__this->set_rotationSpeed_10((50.0f));
 		MonoBehaviour__ctor_mC0995D847F6A95B1A553652636C38A2AA8B13BED(__this, /*hidden argument*/NULL);
 		return;
 	}
